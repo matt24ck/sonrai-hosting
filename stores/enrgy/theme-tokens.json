@@ -1,0 +1,14 @@
+{
+  "source": "Playwright computed styles (live page)",
+  "fontHeading": "Montserrat, sans-serif",
+  "fontBody": "Poppins, sans-serif",
+  "textBase": "16.8px",
+  "headingWeight": "400",
+  "bodyWeight": "400",
+  "colorText": "rgba(18, 18, 18, 0.75)",
+  "colorBg": "rgb(255, 255, 255)",
+  "colorAccent": "rgb(18, 18, 18)",
+  "colorButtonText": "rgb(255, 255, 255)",
+  "radius": "0px",
+  "googleFontsHref": ""
+}

@@ -1,0 +1,26 @@
+<svg class="brandmark" viewBox="232 30 180 180" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet" role="img" aria-label="ENRGY AI">
+  <!-- Official ENRGY lightning-bolt "E" (real traced paths, outer block removed so the letter
+       itself is the solid shape). Coloured white via .mark-e to invert onto the dark bubble. -->
+  <g class="mark-e" transform="translate(0,287) scale(0.1,-0.1)" stroke="none">
+    <path d="M3420 1885 c0 -77 -3 -105 -12 -106 -7 -1 -102 0 -210 1 -108 1 -206 -1
+-217 -5 -18 -5 -61 -70 -61 -90 0 -3 45 -5 100 -5 55 0 100 -3 100 -7 0 -8
+-512 -637 -558 -685 -14 -15 -27 -26 -29 -24 -2 1 40 121 92 265 52 144 95
+266 95 272 0 5 -36 9 -80 9 -44 0 -80 3 -80 6 0 8 136 394 156 442 l13 32 345
+0 346 0 0 -105z m-106 -211 l46 -7 0 -103 0 -104 -180 0 c-99 0 -180 3 -180 8
+0 8 105 140 148 185 28 29 67 34 166 21z m106 -429 l0 -105 -341 0 c-287 0
+-340 2 -336 14 3 7 38 55 79 105 l73 91 263 0 262 0 0 -105z"/>
+    <path d="M2691 1772 c-88 -246 -88 -222 3 -222 67 0 76 -2 76 -18 0 -10 -26
+-88 -58 -173 -32 -84 -62 -167 -65 -184 l-7 -30 36 40 c50 56 364 444 364 450
+0 3 -40 5 -89 5 -50 0 -92 3 -94 8 -3 4 15 42 40 85 l45 77 219 0 219 0 0 70
+0 70 -312 0 -313 0 -64 -178z"/>
+    <path d="M3136 1577 c-31 -35 -56 -67 -56 -71 0 -3 56 -6 125 -6 l126 0 -3 68
+-3 67 -66 3 -67 3 -56 -64z"/>
+    <path d="M2918 1308 c-22 -17 -98 -110 -98 -120 0 -5 126 -8 280 -8 l280 0 0
+70 0 70 -223 0 c-163 0 -228 -3 -239 -12z"/>
+  </g>
+  <!-- "AI" badge, spaced above the E's top-right -->
+  <g class="mark-ai">
+    <rect class="mark-ai-bg" x="330" y="48" width="62" height="36" rx="12" />
+    <text class="mark-ai-text" x="361" y="75" text-anchor="middle" font-size="26" font-weight="800" letter-spacing="0.5">AI</text>
+  </g>
+</svg>

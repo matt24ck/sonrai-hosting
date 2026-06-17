@@ -1,0 +1,16 @@
+/* theme-tokens.css — extracted from https://www.enrgyclothing.com
+ * Source: Playwright computed styles (live page)
+ * Resolved fonts: heading=Montserrat, sans-serif ; body=Poppins, sans-serif
+ */
+:root {
+  --font-heading: Montserrat, sans-serif;
+  --font-body: Poppins, sans-serif;
+  --weight-heading: 400;
+  --weight-body: 400;
+  --text-base: 16.8px;
+  --color-text: rgba(18, 18, 18, 0.75);
+  --color-bg: rgb(255, 255, 255);
+  --color-accent: rgb(18, 18, 18);
+  --color-button-text: rgb(255, 255, 255);
+  --radius: 0px;
+}

@@ -1,0 +1,26 @@
+{
+  "name": "shopify-concierge",
+  "version": "2.0.0",
+  "private": true,
+  "description": "Multi-tenant AI shopping concierge widget for Shopify stores. Zero-hallucination, id-based product selection, same-origin AJAX cart.",
+  "type": "commonjs",
+  "scripts": {
+    "fetch": "node scripts/fetch-catalogue.js",
+    "fetch:refresh": "node scripts/fetch-catalogue.js --refresh",
+    "extract-theme": "node scripts/extract-theme.js",
+    "dev": "node src/server.js",
+    "start": "node src/server.js",
+    "validate": "node validate.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2"
+  },
+  "optionalDependencies": {
+    "playwright": "^1.45.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

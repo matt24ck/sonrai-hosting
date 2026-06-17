@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Concierge widget — local demo storefront</title>
+    <style>
+      body { font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; margin: 0; color: #111; }
+      .wrap { max-width: 720px; margin: 0 auto; padding: 56px 24px; }
+      h1 { letter-spacing: .04em; margin-bottom: 4px; }
+      .picker { display: flex; align-items: center; gap: 10px; margin: 18px 0 26px; }
+      .picker select { font-size: 15px; padding: 8px 10px; border: 1px solid #cfcfcf; border-radius: 8px; }
+      .picker .now { font-size: 13px; color: #666; }
+      .hint { background: #f4f4f4; border-radius: 8px; padding: 16px 18px; line-height: 1.5; }
+      code { background: #fff; padding: 1px 5px; border-radius: 4px; border: 1px solid #ddd; }
+    </style>
+  </head>
+  <body>
+    <div class="wrap">
+      <h1>Pretend storefront</h1>
+      <p>Stands in for the live store so you can exercise the concierge widget locally.</p>
+
+      <div class="picker">
+        <label for="store"><strong>Testing store:</strong></label>
+        <select id="store"></select>
+        <span class="now" id="now"></span>
+      </div>
+
+      <div class="hint">
+        <p>The bubble (bottom-right) loads <code>/embed.js</code> with the selected
+          <code>data-store</code>, pulls that store's real catalogue + theme tokens, and recommends
+          real products. Switch stores with the dropdown (or add <code>?store=&lt;id&gt;</code> to the URL).</p>
+        <p><strong>Cart:</strong> this page isn't a Shopify storefront (no <code>window.Shopify</code>),
+          so "Add" / "Add all" open the real Shopify cart <em>permalink</em> in a new tab — the
+          fallback path. On the live store it switches automatically to in-page AJAX add-to-cart.</p>
+        <p><strong>Sizing:</strong> sized items show size chips and keep "Add" disabled until a size
+          is picked; one-size items add directly.</p>
+      </div>
+    </div>
+
+    <script>
+      // Pick the store from ?store=<id> (default: enrgy). The dropdown reloads with the new id.
+      (function () {
+        var params = new URLSearchParams(location.search);
+        var store = params.get('store') || 'enrgy';
+        document.getElementById('now').textContent = 'data-store="' + store + '"';
+
+        // Populate the dropdown from the registry.
+        fetch('/api/stores')
+          .then(function (r) { return r.json(); })
+          .then(function (stores) {
+            var sel = document.getElementById('store');
+            stores.forEach(function (s) {
+              var o = document.createElement('option');
+              o.value = s.id; o.textContent = s.storeName + ' (' + s.id + ')';
+              if (s.id === store) o.selected = true;
+              sel.appendChild(o);
+            });
+            sel.addEventListener('change', function () {
+              location.search = '?store=' + encodeURIComponent(sel.value);
+            });
+          })
+          .catch(function () {});
+
+        // Inject the widget for the chosen store (mirrors the real theme.liquid snippet).
+        var s = document.createElement('script');
+        s.defer = true;
+        s.src = '/embed.js';
+        s.setAttribute('data-store', store);
+        document.body.appendChild(s);
+      })();
+    </script>
+  </body>
+</html>
