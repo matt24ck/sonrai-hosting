@@ -112,7 +112,7 @@
       .mark-ai-text { fill: ${t.colorAccent}; font-family: ${t.fontHeading}, sans-serif; }
       .panel {
         position: fixed; right: 20px; bottom: 92px; z-index: 2147483000;
-        width: 440px; max-width: calc(100vw - 32px); height: 680px; max-height: calc(100vh - 110px);
+        width: 440px; max-width: calc(100vw - 32px); height: 680px; max-height: calc(100dvh - 110px);
         background: ${t.colorBg}; color: ${t.colorText};
         border-radius: ${rad(t.radius)}; box-shadow: 0 12px 48px rgba(0,0,0,.28);
         display: none; flex-direction: column; overflow: hidden;
@@ -158,6 +158,12 @@
       .composer input { flex: 1; font-size: 15px; padding: 12px 14px; border: 1px solid #cfcfcf; border-radius: ${rad(t.radius)}; outline: none; }
       .composer input:focus { border-color: ${t.colorAccent}; }
       .composer .send { background: ${t.colorAccent}; color: ${t.colorButtonText}; border: none; border-radius: ${rad(t.radius)}; padding: 0 18px; font-size: 14px; font-family: ${t.fontHeading}; font-weight: 700; cursor: pointer; }
+      /* Phones: the panel becomes a full-screen sheet on the real (dynamic) viewport. */
+      @media (max-width: 480px) {
+        .panel { top: 0; right: 0; bottom: 0; left: 0; width: 100%; max-width: 100%; height: 100dvh; max-height: 100dvh; border-radius: 0; }
+        .body { padding: 14px; }
+        .composer input { font-size: 16px; } /* >=16px stops iOS auto-zoom on focus */
+      }
     `;
     return s;
   }
