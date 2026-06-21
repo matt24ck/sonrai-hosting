@@ -158,6 +158,8 @@
       .composer input { flex: 1; font-size: 15px; padding: 12px 14px; border: 1px solid #cfcfcf; border-radius: ${rad(t.radius)}; outline: none; }
       .composer input:focus { border-color: ${t.colorAccent}; }
       .composer .send { background: ${t.colorAccent}; color: ${t.colorButtonText}; border: none; border-radius: ${rad(t.radius)}; padding: 0 18px; font-size: 14px; font-family: ${t.fontHeading}; font-weight: 700; cursor: pointer; }
+      .credit { display: block; text-align: center; text-decoration: none; font-family: ${t.fontBody}; font-size: 11px; letter-spacing: .02em; color: ${t.colorText}; opacity: .5; padding: 0 12px 12px; }
+      .credit:hover { opacity: .8; text-decoration: underline; }
       /* Phones: the panel becomes a full-screen sheet on the real (dynamic) viewport. */
       @media (max-width: 480px) {
         .panel { top: 0; right: 0; bottom: 0; left: 0; width: 100%; max-width: 100%; height: 100dvh; max-height: 100dvh; border-radius: 0; }
@@ -204,6 +206,8 @@
       bodyEl,
       chips,
       h('div', { class: 'composer' }, [inputEl, sendEl]),
+      h('a', { class: 'credit', href: 'https://sonrai-ai.ie', target: '_blank', rel: 'noopener' },
+        ['AI Integration by Sonraí AI']),
     ]);
     return panel;
   }
