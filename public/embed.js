@@ -139,7 +139,8 @@
       .card .pr { font-weight: 600; font-size: 14px; }
       .card .rs { font-size: 12.5px; opacity: .75; line-height: 1.4; flex: 1; }
       .sizes { display: flex; flex-wrap: wrap; gap: 5px; }
-      .sz { font-size: 12px; min-width: 32px; text-align: center; padding: 6px 8px; border: 1px solid ${t.colorAccent}; border-radius: ${rad(t.radius)}; cursor: pointer; background: #fff; color: ${t.colorAccent}; }
+      .sz { font-size: 12px; min-width: 32px; text-align: center; padding: 6px 8px; border: 1px solid ${t.colorAccent}; border-radius: ${rad(t.radius)}; cursor: pointer; background: #fff; color: ${t.colorAccent}; transition: background-color .15s ease, color .15s ease, transform .08s ease; }
+      .sz:not(.disabled):active { transform: scale(.9); }
       .sz[aria-pressed="true"] { background: ${t.colorAccent}; color: ${t.colorButtonText}; }
       .sz.disabled { opacity: .3; pointer-events: none; text-decoration: line-through; }
       .btn { font-family: ${t.fontHeading}; font-weight: 700; letter-spacing: .03em; border-radius: ${rad(t.radius)}; border: 1px solid ${t.colorAccent}; padding: 10px 12px; font-size: 12.5px; cursor: pointer; text-align: center; text-decoration: none; }
@@ -327,8 +328,12 @@
       const labels = [...new Set(sized.flatMap((p) => p.variants.filter((v) => v.available).map((v) => v.label)))];
       fitSizes = h('div', { class: 'fitsizes' }, [h('span', { class: 'lbl' }, ['Set my size:'])]);
       labels.forEach((label) => {
-        const chip = h('button', { class: 'sz' }, [label]);
-        chip.addEventListener('click', () => applyFitSize(label));
+        const chip = h('button', { class: 'sz', 'aria-pressed': 'false' }, [label]);
+        chip.addEventListener('click', () => {
+          fitSizes.querySelectorAll('.sz').forEach((c) => c.setAttribute('aria-pressed', 'false'));
+          chip.setAttribute('aria-pressed', 'true');
+          applyFitSize(label);
+        });
         fitSizes.appendChild(chip);
       });
       bar.appendChild(fitSizes);
