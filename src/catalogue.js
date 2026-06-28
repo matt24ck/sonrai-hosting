@@ -110,14 +110,18 @@ function enrich(product, store) {
   }));
 
   // One-size products keep a direct variantId (the single available variant).
-  // Sized products carry NO default — the shopper must choose a size before adding to cart.
+  // Multi-variant products carry NO default — the shopper must choose a variant before adding.
   const directVariant = oneSize ? variants.find((v) => v.available) || variants[0] || null : null;
+
+  // Apparel-only derivation: garment category from title keywords + colourway from "Name - Colour".
+  // For non-apparel stores this produces nonsense, so fall back to product_type and no colour.
+  const apparel = !!(store && store.apparel);
 
   return {
     id: product.id,
     title: product.title,
-    category: deriveCategory(product),
-    colour: deriveColour(product),
+    category: apparel ? deriveCategory(product) : (product.product_type || 'Other'),
+    colour: apparel ? deriveColour(product) : null,
     productType: product.product_type || '',
     tags: product.tags || [],
     priceMin: min,

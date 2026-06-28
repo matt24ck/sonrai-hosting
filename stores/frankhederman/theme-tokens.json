@@ -1,0 +1,14 @@
+{
+  "source": "Playwright computed styles (live page)",
+  "fontHeading": "kings-caslon, sans-serif",
+  "fontBody": "kings-caslon, sans-serif",
+  "textBase": "16px",
+  "headingWeight": "400",
+  "bodyWeight": "400",
+  "colorText": "rgb(148, 148, 148)",
+  "colorBg": "rgb(255, 255, 255)",
+  "colorAccent": "rgb(51, 51, 51)",
+  "colorButtonText": "rgb(255, 255, 255)",
+  "radius": "2px",
+  "googleFontsHref": "https://fonts.googleapis.com/css?family=Neuton:300,400,400i,700|PT+Sans:400,400i,700,700i"
+}

@@ -108,18 +108,41 @@ async function extractWithPlaywright(store) {
       const body = getComputedStyle(document.body);
       const heading = pick(['h1', 'h2', '.h1', 'header h1']);
       const para = pick(['p', 'main p', 'article p']);
-      const btn = pick(['button[name="add"]', '.product-form__submit', 'button.btn', '.button', 'button', 'a.btn']);
+
+      // A colour is "solid" if it has non-zero alpha and isn't white/near-white.
+      const alpha = (c) => { const m = (c || '').match(/rgba?\(([^)]+)\)/); if (!m) return c ? 1 : 0; const p = m[1].split(',').map((x) => x.trim()); return p.length > 3 ? parseFloat(p[3]) : 1; };
+      const isWhite = (c) => /^rgba?\(\s*25[0-5]\s*,\s*25[0-5]\s*,\s*25[0-5]/.test(c || '');
+      const isSolid = (c) => alpha(c) >= 0.9 && !isWhite(c);
+
+      // Find a real brand/accent colour: first button with a solid background, scanning several.
+      const btnSels = ['button[name="add"]', '.product-form__submit', 'button.btn', '.btn--primary', '.button--primary', '.button', 'button', 'a.btn', 'a.button'];
+      let accent = null, btnText = null, radius = null;
+      for (const sel of btnSels) {
+        for (const el of document.querySelectorAll(sel)) {
+          const c = getComputedStyle(el);
+          if (radius == null) radius = c.borderRadius;
+          if (isSolid(c.backgroundColor)) { accent = c.backgroundColor; btnText = c.color; radius = c.borderRadius; break; }
+        }
+        if (accent) break;
+      }
+      // Fallbacks if no solid button exists (transparent/ghost themes): use the darkest brand
+      // colour we have (the body text) as the accent, with the page background as contrasting text.
+      const colorText = body.color;
+      const colorBg = body.backgroundColor;
+      if (!accent) { accent = isSolid(colorText) ? colorText : 'rgb(17,17,17)'; btnText = isWhite(colorBg) || alpha(colorBg) < 0.9 ? 'rgb(255,255,255)' : colorBg; }
+      if (!btnText) btnText = 'rgb(255,255,255)';
+
       return {
         fontHeading: heading.fontFamily,
         fontBody: body.fontFamily || para.fontFamily,
         headingWeight: heading.fontWeight,
         bodyWeight: body.fontWeight,
         textBase: body.fontSize,
-        colorText: body.color,
-        colorBg: body.backgroundColor,
-        colorAccent: btn.backgroundColor,
-        colorButtonText: btn.color,
-        radius: btn.borderRadius,
+        colorText,
+        colorBg,
+        colorAccent: accent,
+        colorButtonText: btnText,
+        radius: radius || '8px',
       };
     });
 

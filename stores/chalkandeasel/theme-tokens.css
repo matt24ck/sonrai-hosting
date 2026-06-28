@@ -1,0 +1,16 @@
+/* theme-tokens.css — extracted from https://chalkandeasel.ie
+ * Source: Playwright computed styles (live page)
+ * Resolved fonts: heading=Lato, sans-serif ; body=Roboto, sans-serif
+ */
+:root {
+  --font-heading: Lato, sans-serif;
+  --font-body: Roboto, sans-serif;
+  --weight-heading: 400;
+  --weight-body: 400;
+  --text-base: 14px;
+  --color-text: rgb(68, 68, 68);
+  --color-bg: rgb(255, 255, 255);
+  --color-accent: rgb(68, 68, 68);
+  --color-button-text: rgb(255,255,255);
+  --radius: 4px;
+}

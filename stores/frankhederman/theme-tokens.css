@@ -1,0 +1,16 @@
+/* theme-tokens.css — extracted from https://www.frankhederman.com
+ * Source: Playwright computed styles (live page)
+ * Resolved fonts: heading=kings-caslon, sans-serif ; body=kings-caslon, sans-serif
+ */
+:root {
+  --font-heading: kings-caslon, sans-serif;
+  --font-body: kings-caslon, sans-serif;
+  --weight-heading: 400;
+  --weight-body: 400;
+  --text-base: 16px;
+  --color-text: rgb(148, 148, 148);
+  --color-bg: rgb(255, 255, 255);
+  --color-accent: rgb(51, 51, 51);
+  --color-button-text: rgb(255, 255, 255);
+  --radius: 2px;
+}

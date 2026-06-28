@@ -1,0 +1,3902 @@
+{
+  "fetchedAt": "2026-06-28T14:55:00.474Z",
+  "storeUrl": "https://www.frankhederman.com",
+  "currency": "EUR",
+  "count": 28,
+  "products": [
+    {
+      "id": 9886947377496,
+      "title": "C&C - Traditional Brown Soda Bread",
+      "handle": "c-c-traditional-brown-soda-bread",
+      "body_html": "<h2 data-mce-fragment=\"1\"><strong>Click and Collect only </strong></h2>\n<p> </p>\n<p class=\"MsoNormal\"><span lang=\"EN-GB\" style=\"mso-ansi-language: EN-GB;\">Our own recipe, this bread is baked fresh to order with a flavoursome, nutty combination of wholemeal, oatmeal, pinhead oatmeal and buttermilk. It is sweetened, naturally and delicately, with honey and dark treacle. Lashed with real butter, or smoked butter, it is the perfect vehicle for smoked salmon or indeed smoked mackerel. It also works with all of the pâtés and smoked fish salads. It lasts (well wrapped) for at least 3 days and then it is delicious toasted.</span></p>\n<h4>INGREDIENTS<span data-mce-fragment=\"1\"> (Allergens in BOLD)</span>\n</h4>\n<p>Flour (GLUTEN), Salt, Bread soda, Wholemeal flour, Oat flakes, Pinhead oatmeal, Honey and Buttermilk (MILK)</p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving.</span></p>\n<p><span>Shelf Life: 3 days from production </span></p>\n<!---->",
+      "published_at": "2026-03-04T12:02:52+00:00",
+      "created_at": "2024-07-26T16:44:37+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 49626458292568,
+          "title": "Whole Bread",
+          "option1": "Whole Bread",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 56956713206104,
+            "product_id": 9886947377496,
+            "position": 3,
+            "created_at": "2024-07-26T16:43:51+01:00",
+            "updated_at": "2024-07-26T16:43:53+01:00",
+            "alt": null,
+            "width": 1599,
+            "height": 1195,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at12.02.12.jpg?v=1722008633",
+            "variant_ids": [
+              49626458292568
+            ]
+          },
+          "available": true,
+          "price": "7.80",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 9886947377496,
+          "created_at": "2024-07-26T16:44:38+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 49626477232472,
+          "title": "Half Bread",
+          "option1": "Half Bread",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 56956713140568,
+            "product_id": 9886947377496,
+            "position": 1,
+            "created_at": "2024-07-26T16:43:51+01:00",
+            "updated_at": "2024-07-26T16:43:53+01:00",
+            "alt": null,
+            "width": 1600,
+            "height": 1200,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at12.02.12_2.jpg?v=1722008633",
+            "variant_ids": [
+              49626477232472
+            ]
+          },
+          "available": true,
+          "price": "4.50",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 9886947377496,
+          "created_at": "2024-07-26T16:46:37+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 56956713140568,
+          "created_at": "2024-07-26T16:43:51+01:00",
+          "position": 1,
+          "updated_at": "2024-07-26T16:43:53+01:00",
+          "product_id": 9886947377496,
+          "variant_ids": [
+            49626477232472
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at12.02.12_2.jpg?v=1722008633",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": 56956713173336,
+          "created_at": "2024-07-26T16:43:51+01:00",
+          "position": 2,
+          "updated_at": "2024-07-26T16:43:53+01:00",
+          "product_id": 9886947377496,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at12.02.12_1.jpg?v=1722008633",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": 56956713206104,
+          "created_at": "2024-07-26T16:43:51+01:00",
+          "position": 3,
+          "updated_at": "2024-07-26T16:43:53+01:00",
+          "product_id": 9886947377496,
+          "variant_ids": [
+            49626458292568
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at12.02.12.jpg?v=1722008633",
+          "width": 1599,
+          "height": 1195
+        }
+      ],
+      "options": [
+        {
+          "name": "Brown Soda Bread",
+          "position": 1,
+          "values": [
+            "Whole Bread",
+            "Half Bread"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7051282317490,
+      "title": "C&C - Smoked Fishcakes x4",
+      "handle": "smoked-fishcakes-x4",
+      "body_html": "<h2 data-mce-fragment=\"1\"><strong>Click and Collect only </strong></h2>\n<p data-mce-fragment=\"1\"><span>4× 150g Handmade smoked fishcakes</span></p>\n<h4>WHY BUY HEDERMAN SMOKED FISHCAKES</h4>\n<p data-mce-fragment=\"1\">Handmade in our smokehouse kitchen these are extremely popular at our markets due to their robust flavours and delicious ingredients. This variety is made with our chilli hot smoked salmon, spring onion and Thai sweet chilli sauce. They are rolled in Macroom stoneground oatmeal for a crisp nutty texture when fried or baked in the oven with a little oil and butter. Serve with a fried egg, or a dressed salad.</p>\n<h4>INGREDIENTS<span data-mce-fragment=\"1\"> (ALLERGENS IN BOLD)</span>\n</h4>\n<p><span>Potatoes, Hot smoked salmon with chillies (FISH, </span><span data-mce-fragment=\"1\">Atlantic Irish salmon, farmed on Ireland's west coast</span><span>), spring onion, Thai sweet chilli sauce, seasoning.</span></p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving.</span></p>\n<h4 class=\"active\" data-action=\"viewList\">COOKING INSTRUCTIONS</h4>\n<p><span>Cook for 20-30 mins in an oven preheated to 180-200C until piping hot. You can also shallow fry for 5 minutes on each side with a dash of oil and butter.</span></p>",
+      "published_at": "2026-03-04T12:02:45+00:00",
+      "created_at": "2021-09-28T12:12:59+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 41063740965042,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "Fishcakes",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "16.60",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7051282317490,
+          "created_at": "2021-09-28T12:12:59+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31062659006642,
+          "created_at": "2021-09-28T12:12:59+01:00",
+          "position": 1,
+          "updated_at": "2021-10-01T14:31:43+01:00",
+          "product_id": 7051282317490,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_4121.jpg?v=1633095103",
+          "width": 1492,
+          "height": 1876
+        },
+        {
+          "id": 31062659039410,
+          "created_at": "2021-09-28T12:12:59+01:00",
+          "position": 2,
+          "updated_at": "2021-09-28T12:13:01+01:00",
+          "product_id": 7051282317490,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_2468.jpg?v=1632827581",
+          "width": 2000,
+          "height": 2000
+        },
+        {
+          "id": 31062658777266,
+          "created_at": "2021-09-28T12:12:59+01:00",
+          "position": 3,
+          "updated_at": "2021-09-28T12:13:01+01:00",
+          "product_id": 7051282317490,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/RedCurry5.jpg?v=1632827581",
+          "width": 1600,
+          "height": 1389
+        },
+        {
+          "id": 31062658973874,
+          "created_at": "2021-09-28T12:12:59+01:00",
+          "position": 4,
+          "updated_at": "2021-09-28T12:13:01+01:00",
+          "product_id": 7051282317490,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Capers_Herbs3.jpg?v=1632827581",
+          "width": 1600,
+          "height": 1415
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9900118409560,
+      "title": "C&C - Smoked Fish Pie",
+      "handle": "c-c-smoked-fish-pie",
+      "body_html": "<h2 data-mce-fragment=\"1\"><strong>Click and Collect only </strong></h2>\n<p> </p>\n<p class=\"MsoNormal\"><span lang=\"EN-GB\" style=\"mso-ansi-language: EN-GB;\">This is a layered pie of delicious creamy mashed potato enriched with butter and Parmesan, and smoked fish in a flavoursome, béchamel sauce. We change our fish pies with the seasons, and so sometimes they will have spinach, other times they might be flavoured carrot, petits pois and dill. However our flavours are quite classic and the pies generally always have a mixture of our naturally smoked haddock, poached salmon and hot smoked salmon. We do not add shell fish as a general rule but please always read the label if you are allergic to crab, prawns or molluscs.</span></p>\n<p class=\"MsoNormal\"><span lang=\"EN-GB\" style=\"mso-ansi-language: EN-GB;\">Approximately 450 grams</span></p>\n<h4>INGREDIENTS<span data-mce-fragment=\"1\"> (Allergens in BOLD)</span>\n</h4>\n<p><span data-mce-fragment=\"1\">Potato, Hederman Smoked Haddock(FISH),</span><span data-mce-fragment=\"1\"> Salmon(FISH),</span><span data-mce-fragment=\"1\"> Butter and Milk (MILK), Onion, Celery (CELERY), Carrots, Spinach, Crème Fraiche(MILK), Salt &amp; Pepper</span></p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving.</span></p>\n<p><span>Shelf Life: 8 days from production </span></p>\n<!---->",
+      "published_at": "2026-03-04T12:02:34+00:00",
+      "created_at": "2024-08-06T16:42:50+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "Ready to eat",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 49670773047640,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "10.95",
+          "grams": 450,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 9900118409560,
+          "created_at": "2024-08-06T16:42:51+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 57107986710872,
+          "created_at": "2024-08-06T16:36:01+01:00",
+          "position": 1,
+          "updated_at": "2024-08-06T16:36:03+01:00",
+          "product_id": 9900118409560,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-08-06at16.26.10.jpg?v=1722958563",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": 57107986743640,
+          "created_at": "2024-08-06T16:36:01+01:00",
+          "position": 2,
+          "updated_at": "2024-08-06T16:36:03+01:00",
+          "product_id": 9900118409560,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-08-06at16.26.10_2.jpg?v=1722958563",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": 57107986776408,
+          "created_at": "2024-08-06T16:36:01+01:00",
+          "position": 3,
+          "updated_at": "2024-08-06T16:36:03+01:00",
+          "product_id": 9900118409560,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-08-06at16.26.10_1.jpg?v=1722958563",
+          "width": 1600,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9886856708440,
+      "title": "C&C - Hederman Smoked Quiche",
+      "handle": "c-c-hederman-smoked-quiche",
+      "body_html": "<h2 data-mce-fragment=\"1\"><strong>Click and Collect only </strong></h2>\n<p> </p>\n<p>We make a wide variety of truly delicious savoury smoked fish quiches with a crisp butter crust pastry. They are filled with a savoury cream, egg and Parmesan filling with smoked salmon, smoked mackerel or smoked haddock. We make them extra delicious with seasonal herbs or greens such as spinach, asparagus or petit pois to name but a few and herbs from the garden or spices to suit. Simply heat through for 5-8 minutes in a hot oven 180- 200C. Please don’t microwave or you will spoil crisp texture of pastry!</p>\n<h4>INGREDIENTS<span data-mce-fragment=\"1\"> (Allergens in BOLD)</span>\n</h4>\n<p><span data-mce-fragment=\"1\">Pastry: Flour (GLUTEN), Butter and Water Filling: Egg (EGG), Cream (MILK), FISH or/and Bacon or/and Cheese and Vegetables</span></p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving.</span></p>\n<p><span>Shelf Life: 3 days from production </span></p>\n<!---->",
+      "published_at": "2026-03-04T12:02:28+00:00",
+      "created_at": "2024-07-26T15:41:04+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "Ready to eat",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 49626265157976,
+          "title": "Whole Quiche",
+          "option1": "Whole Quiche",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 56955938931032,
+            "product_id": 9886856708440,
+            "position": 2,
+            "created_at": "2024-07-26T15:33:56+01:00",
+            "updated_at": "2024-07-26T15:33:59+01:00",
+            "alt": null,
+            "width": 1600,
+            "height": 1200,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at11.45.22_1.jpg?v=1722004439",
+            "variant_ids": [
+              49626265157976
+            ]
+          },
+          "available": true,
+          "price": "68.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 9886856708440,
+          "created_at": "2024-07-26T15:41:56+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 49626277413208,
+          "title": "Slice",
+          "option1": "Slice",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 56955938963800,
+            "product_id": 9886856708440,
+            "position": 3,
+            "created_at": "2024-07-26T15:33:56+01:00",
+            "updated_at": "2024-07-26T15:33:59+01:00",
+            "alt": null,
+            "width": 1600,
+            "height": 1200,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at11.45.22_3.jpg?v=1722004439",
+            "variant_ids": [
+              49626277413208
+            ]
+          },
+          "available": true,
+          "price": "7.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 9886856708440,
+          "created_at": "2024-07-26T15:44:00+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 56955938898264,
+          "created_at": "2024-07-26T15:33:56+01:00",
+          "position": 1,
+          "updated_at": "2024-07-26T15:33:59+01:00",
+          "product_id": 9886856708440,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at11.45.22.jpg?v=1722004439",
+          "width": 1535,
+          "height": 1071
+        },
+        {
+          "id": 56955938931032,
+          "created_at": "2024-07-26T15:33:56+01:00",
+          "position": 2,
+          "updated_at": "2024-07-26T15:33:59+01:00",
+          "product_id": 9886856708440,
+          "variant_ids": [
+            49626265157976
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at11.45.22_1.jpg?v=1722004439",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": 56955938963800,
+          "created_at": "2024-07-26T15:33:56+01:00",
+          "position": 3,
+          "updated_at": "2024-07-26T15:33:59+01:00",
+          "product_id": 9886856708440,
+          "variant_ids": [
+            49626277413208
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at11.45.22_3.jpg?v=1722004439",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": 56955938996568,
+          "created_at": "2024-07-26T15:33:56+01:00",
+          "position": 4,
+          "updated_at": "2024-07-26T15:33:59+01:00",
+          "product_id": 9886856708440,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at11.45.22_2.jpg?v=1722004439",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": 56955939029336,
+          "created_at": "2024-07-26T15:33:56+01:00",
+          "position": 5,
+          "updated_at": "2024-07-26T15:33:58+01:00",
+          "product_id": 9886856708440,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at11.45.22_4.jpg?v=1722004438",
+          "width": 1600,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Quiche",
+          "position": 1,
+          "values": [
+            "Whole Quiche",
+            "Slice"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9886819811672,
+      "title": "C&C - Potato Gratin, Spring onion & Hederman Hot Smoked Salmon",
+      "handle": "c-c-potato-gratin-spring-onion-hederman-hot-smoked-salmon",
+      "body_html": "<h2 data-mce-fragment=\"1\"><strong>Click and Collect only </strong></h2>\n<p> </p>\n<p>Layers of finely sliced potatoes, cooked with poached and hot smoked classic Irish salmon, in a garlic and herb cream. This is a indulgent main course for one, or you could share and have as a side with a piece of grilled fish, and a dressed salad. <br>Perfect dinner party food.</p>\n<h4>INGREDIENTS<span data-mce-fragment=\"1\"> (Allergens in BOLD)</span>\n</h4>\n<p><span data-mce-fragment=\"1\">Hederman Hot Smoked Salmon (FISH),</span><span data-mce-fragment=\"1\"> </span><span data-mce-fragment=\"1\">Potatoes, Cream (MILK), Spring Onion, Garlic, Mix Herbs, Salt &amp; Pepper, Parmesan Cheese (MILK)</span></p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving.</span></p>\n<p><span>Shelf Life: 8 days from production </span></p>\n<!---->",
+      "published_at": "2026-03-04T12:02:21+00:00",
+      "created_at": "2024-07-26T15:16:27+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 49626028179800,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "8.85",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 9886819811672,
+          "created_at": "2024-07-26T15:16:28+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 56955607941464,
+          "created_at": "2024-07-26T15:14:30+01:00",
+          "position": 1,
+          "updated_at": "2024-07-26T15:14:33+01:00",
+          "product_id": 9886819811672,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at10.37.03_2.jpg?v=1722003273",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": 56955607974232,
+          "created_at": "2024-07-26T15:14:30+01:00",
+          "position": 2,
+          "updated_at": "2024-07-26T15:14:32+01:00",
+          "product_id": 9886819811672,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at10.37.03.jpg?v=1722003272",
+          "width": 750,
+          "height": 1067
+        },
+        {
+          "id": 56955608007000,
+          "created_at": "2024-07-26T15:14:30+01:00",
+          "position": 3,
+          "updated_at": "2024-07-26T15:14:32+01:00",
+          "product_id": 9886819811672,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/WhatsAppImage2024-07-26at10.37.03_1.jpg?v=1722003272",
+          "width": 1600,
+          "height": 1200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7036399091890,
+      "title": "C&C - Smoked Irish Mackerel Fillets x6",
+      "handle": "smoked-irish-mackerel-fillets-x6-with-seasonings",
+      "body_html": "<h2><strong>Click and Collect only </strong></h2>\n<p>Six Irish Mackerel fillets, hot smoked with beechwood, which come with a variety of seasonings including pepper, chillies, chives, Piri Piri, as well as plain.</p>\n<p><span>Smoked mackerel are produced using the hot smoked method – that is, cooked and smoked simultaneously – after brining. We produce smoked mackerel fillets dressed with various herbs and spices. They bear no comparison with supermarket–bought mackerel, with a dense, meaty texture, and balanced flavour</span><br></p>\n<h4>INGREDIENTS<span> (ALLERGENS IN BOLD)</span>\n</h4>\n<p><span>Irish Mackerel FISH (Scomber scombrus) 97%, salt 3% &amp; seasonings.<br>Smoked with beechwood.<br>May contain bones.<br></span></p>\n<h4>ORIGIN<br>\n</h4>\n<p><span>Caught at sea, NW Coast of North Ireland &amp; Scotland</span></p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving.</span></p>\n<h4>How to prepare smoked mackerel</h4>\n<p><span>These are ready to eat, but can be heated through gently in an oven. The skin peels off very easily. Always bring the smoked mackerel to room temperature before serving.</span></p>",
+      "published_at": "2026-03-04T12:02:13+00:00",
+      "created_at": "2021-09-21T10:32:18+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 41012263092402,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "mfillets",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "20.80",
+          "grams": 700,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7036399091890,
+          "created_at": "2021-09-21T10:32:18+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31115880136882,
+          "created_at": "2021-10-01T14:16:30+01:00",
+          "position": 1,
+          "updated_at": "2021-10-01T14:46:15+01:00",
+          "product_id": 7036399091890,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Mackerel6_d90a1680-2c3b-4aff-98b4-bdfd4c678daa.jpg?v=1633095975",
+          "width": 1320,
+          "height": 880
+        },
+        {
+          "id": 30946092843186,
+          "created_at": "2021-09-21T10:32:18+01:00",
+          "position": 2,
+          "updated_at": "2021-09-21T10:32:19+01:00",
+          "product_id": 7036399091890,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/mackerel.jpg?v=1632216739",
+          "width": 1320,
+          "height": 880
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7115279663282,
+      "title": "C&C - Whole Smoked Irish Mackerel x2",
+      "handle": "whole-smoked-irish-mackerel-x2",
+      "body_html": "<h2><strong>Click and Collect only </strong></h2>\n<p><span>A pair of freshly smoked Irish mackerel, hot smoked on the bone with beechwood smoke. *</span></p>\n<p><span>Smoked mackerel are produced using the hot smoked method – that is, cooked and smoked simultaneously – after brining. Whole smoked mackerel are particularly succulent and delicious because they are effectively cooked on the bone. Their skins takes on a beautiful golden patina in the smoker, so they make a particularly eye–catching display as part of a large seafood platter.</span></p>\n<h4><br></h4>\n<h4>ORIGIN</h4>\n<p><span>Caught at sea, NW Coast of North Ireland &amp; Scotland</span></p>\n<h4>INGREDIENTS<span> (ALLERGENS IN BOLD)</span>\n</h4>\n<p><span>Irish Mackerel FISH (Scomber scombrus) 97%, salt 3%.<br>Smoked with beechwood.<br>May contain bones.<br></span></p>\n<div class=\"shopify-section\" id=\"shopify-section-static-product\">\n<section id=\"content\" data-section-type=\"product-template\" data-section-id=\"static-product\" class=\"product-page\n    clearfix\n    two-column\n    product-showcase\">\n<div data-rich-text-area=\"\" class=\"product-details__description\">\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving.</span></p>\n<h4>How to prepare smoked mackerel</h4>\n<p><span>These are ready to eat, but can be heated through gently in an oven. These are smoked whole on the bone, but the additional succulence makes the job of removing the bones worthwhile! Always bring the smoked mackerel to room temperature before serving.</span></p>\n</div>\n</section>\n</div>",
+      "published_at": "2026-03-04T12:02:08+00:00",
+      "created_at": "2021-11-01T20:15:55+00:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 41252712513714,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "WholeM",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "16.60",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7115279663282,
+          "created_at": "2021-11-01T20:15:55+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31574278406322,
+          "created_at": "2021-11-01T20:15:55+00:00",
+          "position": 1,
+          "updated_at": "2021-11-01T20:15:57+00:00",
+          "product_id": 7115279663282,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/wholemackerel.jpg?v=1635797757",
+          "width": 1320,
+          "height": 880
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7626236330162,
+      "title": "MEET THE EXPERT Lunch Tour with Frank Hederman (Min 4 people)",
+      "handle": "private-tours-poa",
+      "body_html": "<p class=\"MsoNormal\">Enjoy the wit and wisdom of owner and expert smoker Frank Hederman whose unscripted tours are legendary. A natural story-teller with vast anecdotal local food and history knowledge, you will learn how the smokehouse emerged and developed. Enjoy a rollercoaster ride through the last 4 decades, and understand the ethos of an authentic smokehouse. Frank will then join you for lunch, offering fun, informal tutored tastings, and keeping the conversation lively over sumptuous tasting platters of delicious smoked food.</p>\n<p> </p>\n<p><strong>Essential Information</strong></p>\n<p>Monday to Fridays, depending on availability <br>Mid March – End of October 2026<a href=\"mailto:privatetours@frankhederman.com\"><strong></strong></a></p>\n<p> </p>\n<p><strong>PRIVATE TOUR GROUP TERMS &amp; CONDITIONS</strong></p>\n<p><strong></strong><strong>Season 2026<br></strong>Our season runs from mid March to end of October.<br>We sometimes take out of season bookings, depending on production and availability.</p>\n<p> </p>\n<p><strong>Children<br></strong>Please mind your children when they are on our premises. This is a working smokehouse and yard.</p>\n<p> </p>\n<p><strong>Payment<br></strong>Full payment must be made at the time of booking to secure your date.<br>Private group experiences are subject to minimum numbers or the equivalent in charges.<br>All rates include service charged at 12.5% including VAT at the current local rate 13.5%.<br>The service charge is shared in its entirely between smoke house employees.</p>\n<p> </p>\n<p><strong>Unscheduled Tours<br></strong>Due to the preparation involved for private tours, we are unable to accommodate impromptu or unscheduled visits. Please contact the smokehouse via email for a private tour with Frank Hederman or Caroline Workman privatetours@frankhederman.com</p>\n<p> </p>\n<p><strong>Cancellation Policy<br></strong>Private tours cancelled more than two full weeks in advance will be reimbursed, but will incur a discretionary administrative charge of 15%.<br>Tours cancelled within two weeks of taking place, but more than 72 hours’ notice, will incur a 50% cancellation fee, again discretionary.<br>Tours cancelled under 72 hour notice period will not be refunded.</p>\n<p>Hederman Smoke House reserves the right, under unavoidable circumstances, to cancel group bookings at any time, in which case you will be fully refunded.</p>\n<p> </p>\n<p><strong>Running Late<br></strong>If you are running late, please advise us by email <a href=\"mailto:privatetours@frankhederman.com\">privatetours@frankhederman.com</a>, and by phone 00353 (0) 21 4811089. We will do our best to accommodate you.</p>\n<p> </p>\n<p><strong>Parking<br></strong>The smoke house is located on a relatively small site and has limited space for parking and turning. The maximum size of vehicle that we can accommodate is a 16-seater Sprinter or equivalent.<br>Belvelly Smoke House is not responsible for theft from or damage to your car while on our premises.</p>\n<p> </p>\n<p><strong>Health &amp; Safety<br></strong>Due to food safety legislation, you may be asked you to complete a visitor health information questionnaire, to wear PPE (coat and a hat) and to wash hands before the tour. We would ask you to allow 5-10 minutes for this.<br>Please note this is a working smoke house and yard: you must mind yourself and your children when on our premises.</p>",
+      "published_at": "2026-02-17T14:54:14+00:00",
+      "created_at": "2023-02-27T10:06:10+00:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "Tours",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42924596625586,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": false,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "185.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7626236330162,
+          "created_at": "2023-02-27T10:06:10+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 85206776578392,
+          "created_at": "2026-01-23T15:58:33+00:00",
+          "position": 1,
+          "updated_at": "2026-01-23T15:59:29+00:00",
+          "product_id": 7626236330162,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Private_smoke_house_tour_Frank_Hederman._Frank_demonstrates_how_he_knows_when_the_fish_are_smoked_and_visitors_on_private_tours_can_see_inside_the_smoke_house_7ca2263f-c804-45ab-9cdc-5a965a3e6070.jpg?v=1769183969",
+          "width": 1600,
+          "height": 1067
+        },
+        {
+          "id": 85206776906072,
+          "created_at": "2026-01-23T15:58:34+00:00",
+          "position": 2,
+          "updated_at": "2026-01-23T15:59:29+00:00",
+          "product_id": 7626236330162,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Illustrated_talks_are_part_of_our_Meet_the_Expert_lunch_which_offervisual_treats_and_trigger_storytelling_and_unique_insights_to_the_smoke_house.jpg?v=1769183969",
+          "width": 1170,
+          "height": 1520
+        },
+        {
+          "id": 85206776807768,
+          "created_at": "2026-01-23T15:58:33+00:00",
+          "position": 3,
+          "updated_at": "2026-01-23T15:59:29+00:00",
+          "product_id": 7626236330162,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Relaxed_smoke_house_tasting_platter_private_lunches_include_informal_chats_anecdotes_and_story_telling_from_Frank_Hederman_s_lifetime_of_producing.jpg?v=1769183969",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "id": 85206777135448,
+          "created_at": "2026-01-23T15:58:34+00:00",
+          "position": 4,
+          "updated_at": "2026-01-26T12:35:54+00:00",
+          "product_id": 7626236330162,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/An_easier_way_to_slice_smoked_salmon_to_enjoy_the_best_possible_flavour_profile_a_fine_balance_of_fish_and_salt_and_smoke._Hederman_smoke_house_cobh_cork_Irelan.png?v=1769430954",
+          "width": 1826,
+          "height": 1217
+        },
+        {
+          "id": 85206776873304,
+          "created_at": "2026-01-23T15:58:34+00:00",
+          "position": 5,
+          "updated_at": "2026-01-26T12:35:54+00:00",
+          "product_id": 7626236330162,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Frank_demonstrates_preparation_of_smoked_fish_including_trimming_pinboning_and_slicing_as_part_of_tutored_tasting_before_tasting_platter_lunch.jpg?v=1769430954",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "id": 85206776676696,
+          "created_at": "2026-01-23T15:58:33+00:00",
+          "position": 6,
+          "updated_at": "2026-01-23T15:59:29+00:00",
+          "product_id": 7626236330162,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Meet_Frank_Hederman_up_close_and_personal_with_a_smoked_eel_and_other_wild_fish_-_smoked_salmon_smoked_mackerel_on_private_tours_of_this_standalone_smoke_house.jpg?v=1769183969",
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "id": 85206776512856,
+          "created_at": "2026-01-23T15:58:33+00:00",
+          "position": 7,
+          "updated_at": "2026-01-23T15:59:29+00:00",
+          "product_id": 7626236330162,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Meet_the_expert_private_tours_when_Frank_takes_food_direct_from_the_cold_smoker_and_tells_the_smoke_house_story_through_food_Cobh_Cork_Ireland.jpg?v=1769183969",
+          "width": 480,
+          "height": 640
+        },
+        {
+          "id": 85206776775000,
+          "created_at": "2026-01-23T15:58:33+00:00",
+          "position": 8,
+          "updated_at": "2026-01-23T15:59:29+00:00",
+          "product_id": 7626236330162,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Photos_with_Frank_are_popular_especially_when_the_sun_is_shining_as_you_can_relax_over_chats_outdoors_Private_group_tours_and_lunches.jpg?v=1769183969",
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15574259859800,
+      "title": "MEET THE EXPERT Epicurean Lunch Tour with Frank Hederman (Min 4 people)",
+      "handle": "private-lunch-tours-poa-copy",
+      "body_html": "<p class=\"MsoNormal\">A rare opportunity to go behind the scenes of this one-of-a-kind smokehouse accompanied by Frank Hederman himself. Now in his fifth decade of smoking, this renowned, self-taught artisan will advise on sourcing, curing and smoking, while giving you a blast of local history, food politics, and his culinary achievements. A gastronomic experience from the get-go, the tour culminates with lavish menus in the Tasting Room. Here, Frank will happily join you at the table, indulge any curiosities and questions, and regale you with memories, local stories and laughter.</p>\n<p><strong>Essential Information</strong></p>\n<p>Monday to Fridays, depending on availability <br>Mid March – End of October 2026<br><a href=\"mailto:privatetours@frankhederman.com\"><strong></strong></a></p>\n<p> </p>\n<p><strong>PRIVATE TOUR GROUP TERMS &amp; CONDITIONS</strong></p>\n<p><strong></strong><strong>Season 2026<br></strong>Our season runs from mid March to end of October.<br>We sometimes take out of season bookings, depending on production and availability.</p>\n<p> </p>\n<p><strong>Children<br></strong>Please mind your children when they are on our premises. This is a working smokehouse and yard.</p>\n<p> </p>\n<p><strong>Payment<br></strong>Full payment must be made at the time of booking to secure your date.<br>Private group experiences are subject to minimum numbers or the equivalent in charges.<br>All rates include service charged at 12.5% including VAT at the current local rate 13.5%.<br>The service charge is shared in its entirely between smoke house employees.</p>\n<p> </p>\n<p><strong>Unscheduled Tours<br></strong>Due to the preparation involved for private tours, we are unable to accommodate impromptu or unscheduled visits. Please contact the smokehouse via email for a private tour with Frank Hederman or Caroline Workman privatetours@frankhederman.com</p>\n<p> </p>\n<p><strong>Cancellation Policy<br></strong>Private tours cancelled more than two full weeks in advance will be reimbursed, but will incur a discretionary administrative charge of 15%.<br>Tours cancelled within two weeks of taking place, but more than 72 hours’ notice, will incur a 50% cancellation fee, again discretionary.<br>Tours cancelled under 72 hour notice period will not be refunded.</p>\n<p>Hederman Smoke House reserves the right, under unavoidable circumstances, to cancel group bookings at any time, in which case you will be fully refunded.</p>\n<p> </p>\n<p><strong>Running Late<br></strong>If you are running late, please advise us by email <a href=\"mailto:privatetours@frankhederman.com\">privatetours@frankhederman.com</a>, and by phone 00353 (0) 21 4811089. We will do our best to accommodate you.</p>\n<p> </p>\n<p><strong>Parking<br></strong>The smoke house is located on a relatively small site and has limited space for parking and turning. The maximum size of vehicle that we can accommodate is a 16-seater Sprinter or equivalent.<br>Belvelly Smoke House is not responsible for theft from or damage to your car while on our premises.</p>\n<p> </p>\n<p><strong>Health &amp; Safety<br></strong>Due to food safety legislation, you may be asked you to complete a visitor health information questionnaire, to wear PPE (coat and a hat) and to wash hands before the tour. We would ask you to allow 5-10 minutes for this.<br>Please note this is a working smoke house and yard: you must mind yourself and your children when on our premises.</p>",
+      "published_at": "2026-01-23T15:56:51+00:00",
+      "created_at": "2026-01-23T15:27:51+00:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "Tours",
+      "tags": [],
+      "variants": [
+        {
+          "id": 56585661022552,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": false,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "260.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15574259859800,
+          "created_at": "2026-01-23T15:27:51+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 85206796337496,
+          "created_at": "2026-01-23T15:59:52+00:00",
+          "position": 1,
+          "updated_at": "2026-01-23T15:59:55+00:00",
+          "product_id": 15574259859800,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Behind_the_scenes_smoke_house_tours_smoked_salmon_by_Frank_Hederman_Cork_Ireland_38a483ed-b8cb-49f6-8cc1-7d7952e0f131.jpg?v=1769183995",
+          "width": 1200,
+          "height": 800
+        },
+        {
+          "id": 85206796239192,
+          "created_at": "2026-01-23T15:59:52+00:00",
+          "position": 2,
+          "updated_at": "2026-01-23T16:00:49+00:00",
+          "product_id": 15574259859800,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Group_tour_during_wild_salmon_season_when_catches_from_the_esturary_are_landed_at_the_smoke_house_cobh_cork_Ireland_..jpg?v=1769184049",
+          "width": 828,
+          "height": 1024
+        },
+        {
+          "id": 85206796599640,
+          "created_at": "2026-01-23T15:59:53+00:00",
+          "position": 3,
+          "updated_at": "2026-01-23T16:00:49+00:00",
+          "product_id": 15574259859800,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Frank_leading_group_tour_for_Failte_Ireland_behind_the_scenes_for_filleting_salting_and_smoking_demonstration_before_delicious_lunch.jpg?v=1769184049",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "id": 85206796665176,
+          "created_at": "2026-01-23T15:59:53+00:00",
+          "position": 4,
+          "updated_at": "2026-01-23T16:00:49+00:00",
+          "product_id": 15574259859800,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Behind_the_scenes_tour_lunch_with_Frank_Hederman_bespoke_smoked_salmon_and_mackerel_dde43598-f19e-4199-8071-a9f38b823080.jpg?v=1769184049",
+          "width": 2162,
+          "height": 1452
+        },
+        {
+          "id": 85206796697944,
+          "created_at": "2026-01-23T15:59:53+00:00",
+          "position": 5,
+          "updated_at": "2026-01-23T16:00:49+00:00",
+          "product_id": 15574259859800,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Al_fresco_dining_in_walled_garden_at_the_smoke_house._Frank_offers_tutored_tasting_before_delicious_lunch_of_smoke_house_ingredients.jpg?v=1769184049",
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "id": 85206796566872,
+          "created_at": "2026-01-23T15:59:53+00:00",
+          "position": 6,
+          "updated_at": "2026-01-23T16:00:49+00:00",
+          "product_id": 15574259859800,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Guided_tour_with_Frank_Hederman_takes_you_behind_the_scenes._viewing_the_only_smoke_house_in_ireland_for_fish_in_Cobh.jpg?v=1769184049",
+          "width": 1428,
+          "height": 2200
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15574261399896,
+      "title": "Private Lunch with 3-4 Course Bespoke Menu (No Tour) - Min 4 people",
+      "handle": "private-lunch-tours-poa-copy-copy",
+      "body_html": "<p class=\"MsoNormal\">Ideally situated far from the madding crowd, with views of the estuary, and a secluded walled garden, the relaxed space of the panelled Tasting Room and its courtyard lends itself to exclusive lunchtime events, and sumptuous long-table feasts. With delicacies straight from the smokehouse and hot-smoke kiln, bespoke smokes and family recipes, and complimentary ingredients from artisan friends and neighbours, the smokers and chef ensure that your food is as local and authentic as it can be. A deft front-of-house team provides a warm welcome and seamless service.<span style=\"mso-no-proof: yes;\"></span></p>\n<p> </p>\n<p><strong>Essential Information</strong></p>\n<p>Monday to Fridays, depending on availability <br>Mid March – End of October 2026<br><a href=\"mailto:privatetours@frankhederman.com\"><strong></strong></a></p>\n<p> </p>\n<p><strong>PRIVATE TOUR GROUP TERMS &amp; CONDITIONS</strong></p>\n<p><strong></strong><strong>Season 2026<br></strong>Our season runs from mid March to end of October.<br>We sometimes take out of season bookings, depending on production and availability.</p>\n<p> </p>\n<p><strong>Children<br></strong>Please mind your children when they are on our premises. This is a working smokehouse and yard.</p>\n<p> </p>\n<p><strong>Payment<br></strong>Full payment must be made at the time of booking to secure your date.<br>Private group experiences are subject to minimum numbers or the equivalent in charges.<br>All rates include service charged at 12.5% including VAT at the current local rate 13.5%.<br>The service charge is shared in its entirely between smoke house employees.</p>\n<p> </p>\n<p><strong>Unscheduled Tours<br></strong>Due to the preparation involved for private tours, we are unable to accommodate impromptu or unscheduled visits. Please contact the smokehouse via email for a private tour with Frank Hederman or Caroline Workman privatetours@frankhederman.com</p>\n<p> </p>\n<p><strong>Cancellation Policy<br></strong>Private tours cancelled more than two full weeks in advance will be reimbursed, but will incur a discretionary administrative charge of 15%.<br>Tours cancelled within two weeks of taking place, but more than 72 hours’ notice, will incur a 50% cancellation fee, again discretionary.<br>Tours cancelled under 72 hour notice period will not be refunded.</p>\n<p>Hederman Smoke House reserves the right, under unavoidable circumstances, to cancel group bookings at any time, in which case you will be fully refunded.</p>\n<p> </p>\n<p><strong>Running Late<br></strong>If you are running late, please advise us by email <a href=\"mailto:privatetours@frankhederman.com\">privatetours@frankhederman.com</a>, and by phone 00353 (0) 21 4811089. We will do our best to accommodate you.</p>\n<p> </p>\n<p><strong>Parking<br></strong>The smoke house is located on a relatively small site and has limited space for parking and turning. The maximum size of vehicle that we can accommodate is a 16-seater Sprinter or equivalent.<br>Belvelly Smoke House is not responsible for theft from or damage to your car while on our premises.</p>\n<p> </p>\n<p><strong>Health &amp; Safety<br></strong>Due to food safety legislation, you may be asked you to complete a visitor health information questionnaire, to wear PPE (coat and a hat) and to wash hands before the tour. We would ask you to allow 5-10 minutes for this.<br>Please note this is a working smoke house and yard: you must mind yourself and your children when on our premises.</p>",
+      "published_at": "2026-01-23T15:45:18+00:00",
+      "created_at": "2026-01-23T15:28:55+00:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "Tours",
+      "tags": [],
+      "variants": [
+        {
+          "id": 56585664725336,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": false,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "150.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15574261399896,
+          "created_at": "2026-01-23T15:28:55+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 85206517416280,
+          "created_at": "2026-01-23T15:42:42+00:00",
+          "position": 1,
+          "updated_at": "2026-01-28T14:57:42+00:00",
+          "product_id": 15574261399896,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Lunch_is_served_hot_smoked_salmon_straight_from_the_smoker_at_Hederman_smoke_house_Cork_Ireland.jpg?v=1769612262",
+          "width": 800,
+          "height": 534
+        },
+        {
+          "id": 85206403252568,
+          "created_at": "2026-01-23T15:35:22+00:00",
+          "position": 2,
+          "updated_at": "2026-01-28T14:58:19+00:00",
+          "product_id": 15574261399896,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Hot_smoked_salmon_makes_a_delicious_garnish_with_spiced_butternut_soup._Bespoke_winter_menus_at_the_smoke_house_for_private_lunch_tours_Cork.jpg?v=1769612299",
+          "width": 507,
+          "height": 584
+        },
+        {
+          "id": 85206403285336,
+          "created_at": "2026-01-23T15:35:22+00:00",
+          "position": 3,
+          "updated_at": "2026-01-28T14:58:19+00:00",
+          "product_id": 15574261399896,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Jerusalem_artichoke_soup_with_smoked_mackerel_toasted_sandwich._seasonal_bespoke_menus_from_the_smoke_house_for_private_lunches.jpg?v=1769612299",
+          "width": 1300,
+          "height": 925
+        },
+        {
+          "id": 85206403481944,
+          "created_at": "2026-01-23T15:35:22+00:00",
+          "position": 4,
+          "updated_at": "2026-01-28T14:58:19+00:00",
+          "product_id": 15574261399896,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/smoked_mackerel_and_sweet_pickled_beetroot_salad_made_with_whole_Irish_mackerel_smoked_on_the_bone.jpg?v=1769612299",
+          "width": 1300,
+          "height": 1032
+        },
+        {
+          "id": 85206403776856,
+          "created_at": "2026-01-23T15:35:23+00:00",
+          "position": 5,
+          "updated_at": "2026-01-28T14:58:19+00:00",
+          "product_id": 15574261399896,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Our_smoked_fish_tarts_come_in_many_flavours_-_hot_smoked_salmon_with_crab_is_a_favourite._Ingredients_from_the_smoke_house_cobh_cork_ireland.jpg?v=1769612299",
+          "width": 2487,
+          "height": 1913
+        },
+        {
+          "id": 85206403547480,
+          "created_at": "2026-01-23T15:35:22+00:00",
+          "position": 6,
+          "updated_at": "2026-01-23T15:45:20+00:00",
+          "product_id": 15574261399896,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Coconut_and_exotic_fruit_roulade._Showstopper_dessert_on_smoke_house_menus._Private_lunches_Cobh_Cork_Ireland.jpg?v=1769183120",
+          "width": 1400,
+          "height": 1050
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7626250518706,
+      "title": "Private Tasting Platter Lunch, or Afternoon Tea (No Tour) - Min 4 people",
+      "handle": "smoke-house-tour-shipping-one-side-of-salmon-to-one-address",
+      "body_html": "<p class=\"MsoNormal\">A lighter way to enjoy the smokehouse if you don’t have time for a tour, but like the idea of a top-notch smoked seafood platter lunch – or afternoon tea and cake -<span style=\"mso-spacerun: yes;\">  </span>in the lovely Tasting Room. With views of the estuary and painted panelled walls, this warm, comfortable, private space gives you and your companions an opportunity to experience authentic, delicious, Irish food straight from its source. Every tasty morsel is produced in-house by chef Alessandra, with ingredients from the smokehouse, with the team on hand to serve.</p>\n<p class=\"MsoNormal\">Tasting platter lunch - or - afternoon cream tea with speciality smoked seafood hosted by smokehouse team. Tea Includes homemade cake, or scones cream and jam. Private use of Tasting Room or garden terraces.</p>\n<p class=\"MsoNormal\"> </p>\n<p><strong>Essential Information<br></strong>Monday to Fridays, depending on availability <br>Mid March – End of October 2026<br><a href=\"mailto:privatetours@frankhederman.com\"><strong></strong></a></p>\n<p> </p>\n<p><strong>PRIVATE TOUR GROUP TERMS &amp; CONDITIONS</strong></p>\n<p><strong></strong><strong>Season 2026<br></strong>Our season runs from mid March to end of October.<br>We sometimes take out of season bookings, depending on production and availability.</p>\n<p> </p>\n<p><strong>Children<br></strong>Please mind your children when they are on our premises. This is a working smokehouse and yard.</p>\n<p> </p>\n<p><strong>Payment<br></strong>Full payment must be made at the time of booking to secure your date.<br>Private group experiences are subject to minimum numbers or the equivalent in charges.<br>All rates include service charged at 12.5% including VAT at the current local rate 13.5%.<br>The service charge is shared in its entirely between smoke house employees.</p>\n<p> </p>\n<p><strong>Unscheduled Tours<br></strong>Due to the preparation involved for private tours, we are unable to accommodate impromptu or unscheduled visits. Please contact the smokehouse via email for a private tour with Frank Hederman or Caroline Workman privatetours@frankhederman.com</p>\n<p> </p>\n<p><strong>Cancellation Policy<br></strong>Private tours cancelled more than two full weeks in advance will be reimbursed, but will incur a discretionary administrative charge of 15%.<br>Tours cancelled within two weeks of taking place, but more than 72 hours’ notice, will incur a 50% cancellation fee, again discretionary.<br>Tours cancelled under 72 hour notice period will not be refunded.</p>\n<p>Hederman Smoke House reserves the right, under unavoidable circumstances, to cancel group bookings at any time, in which case you will be fully refunded.</p>\n<p> </p>\n<p><strong>Running Late<br></strong>If you are running late, please advise us by email <a href=\"mailto:privatetours@frankhederman.com\">privatetours@frankhederman.com</a>, and by phone 00353 (0) 21 4811089. We will do our best to accommodate you.</p>\n<p> </p>\n<p><strong>Parking<br></strong>The smoke house is located on a relatively small site and has limited space for parking and turning. The maximum size of vehicle that we can accommodate is a 16-seater Sprinter or equivalent.<br>Belvelly Smoke House is not responsible for theft from or damage to your car while on our premises.</p>\n<p> </p>\n<p><strong>Health &amp; Safety<br></strong>Due to food safety legislation, you may be asked you to complete a visitor health information questionnaire, to wear PPE (coat and a hat) and to wash hands before the tour. We would ask you to allow 5-10 minutes for this.<br>Please note this is a working smoke house and yard: you must mind yourself and your children when on our premises.</p>",
+      "published_at": "2026-01-23T15:25:10+00:00",
+      "created_at": "2023-02-27T10:20:16+00:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "Tours",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42924636537010,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": false,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "115.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7626250518706,
+          "created_at": "2023-02-27T10:20:16+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 85206162014552,
+          "created_at": "2026-01-23T15:18:33+00:00",
+          "position": 1,
+          "updated_at": "2026-01-28T15:01:48+00:00",
+          "product_id": 7626250518706,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Public_smoke_house_tour_tasting_platter_smoked_mackerel.jpg?v=1769612508",
+          "width": 2048,
+          "height": 1366
+        },
+        {
+          "id": 85206161949016,
+          "created_at": "2026-01-23T15:18:32+00:00",
+          "position": 2,
+          "updated_at": "2026-01-28T14:59:36+00:00",
+          "product_id": 7626250518706,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/A_group_of_gardeners_who_visited_for_a_private_buffet_lunch_between_garden_tours_in_local_private_gardens..jpg?v=1769612376",
+          "width": 1909,
+          "height": 1647
+        },
+        {
+          "id": 85206162080088,
+          "created_at": "2026-01-23T15:18:33+00:00",
+          "position": 3,
+          "updated_at": "2026-01-28T14:59:36+00:00",
+          "product_id": 7626250518706,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Private_smoke_house_lunch_platter_Hederman_Cork_Ireland_smoked_salmon_smoked_mackerel_da22db2a-5080-4125-88ee-c7c37de91e97.jpg?v=1769612376",
+          "width": 1598,
+          "height": 1967
+        },
+        {
+          "id": 85206162276696,
+          "created_at": "2026-01-23T15:18:34+00:00",
+          "position": 4,
+          "updated_at": "2026-01-28T14:59:36+00:00",
+          "product_id": 7626250518706,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Large_and_small_private_tea_parties_are_a_smoked_house_speciality._Finger_sandwiches_of_smoked_egg_mayo_and_spinach_Cobh_Cork_Ireland.jpg?v=1769612376",
+          "width": 2016,
+          "height": 3024
+        },
+        {
+          "id": 85206162309464,
+          "created_at": "2026-01-23T15:18:34+00:00",
+          "position": 5,
+          "updated_at": "2026-01-28T14:59:36+00:00",
+          "product_id": 7626250518706,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/A_delicious_moist_smoked_orange_marmalade_and_almond_cake_for_afternoon_tea_at_the_smoked_house_Cobh_Cork_Ireland.jpg?v=1769612376",
+          "width": 1400,
+          "height": 1050
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10083913990488,
+      "title": "Hederman Salmon Gift",
+      "handle": "hederman-hot-smoked-irish-salmon-copy",
+      "body_html": "<p class=\"MsoNormal\">You can buy a really special gift of smoked salmon with our very beautiful gift box. Commissioned by the Walter Scheel foundation, in the occasion of Frank’s award the bold bright artwork is an abstract of the smokehouse and its unique hanging method by Austrian graphic designer and artist Xenia Fastnacht. While perfect for a fillet of salmon, it’s actually a jewellery box design, and will store many precious and desk top items, once you’ve eaten the treasure within!</p>\n<h5 class=\"MsoNormal\">Choose between:</h5>\n<p class=\"MsoNormal\">1 x 500g Hederman Cold Smoked Salmon;</p>\n<p class=\"MsoNormal\">1 x 500g Hederman Hot Smoked Salmon Plain or;</p>\n<p class=\"MsoNormal\">1 x 500g Hederman Hot smoked Salmon with Chilies.</p>\n<h4></h4>",
+      "published_at": "2025-06-11T10:34:09+01:00",
+      "created_at": "2024-10-21T15:56:02+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 50166680453464,
+          "title": "Hederman Cold Smoked Salmon 500g",
+          "option1": "Hederman Cold Smoked Salmon 500g",
+          "option2": null,
+          "option3": null,
+          "sku": "WScoldsmoked",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 58600441250136,
+            "product_id": 10083913990488,
+            "position": 3,
+            "created_at": "2024-10-21T16:22:32+01:00",
+            "updated_at": "2025-06-11T11:45:02+01:00",
+            "alt": null,
+            "width": 1024,
+            "height": 683,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/CNHederman_279.jpg?v=1749638702",
+            "variant_ids": [
+              50166680453464
+            ]
+          },
+          "available": true,
+          "price": "62.80",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10083913990488,
+          "created_at": "2024-10-21T15:56:02+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 50166680486232,
+          "title": "Hederman Hot Smoked Salmon Plain 500g",
+          "option1": "Hederman Hot Smoked Salmon Plain 500g",
+          "option2": null,
+          "option3": null,
+          "sku": "WShssp",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 58600410415448,
+            "product_id": 10083913990488,
+            "position": 2,
+            "created_at": "2024-10-21T16:21:47+01:00",
+            "updated_at": "2025-06-11T11:45:02+01:00",
+            "alt": null,
+            "width": 1024,
+            "height": 683,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/CNHederman_274.jpg?v=1749638702",
+            "variant_ids": [
+              50166680486232
+            ]
+          },
+          "available": true,
+          "price": "59.50",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 10083913990488,
+          "created_at": "2024-10-21T15:56:02+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 50166680519000,
+          "title": "Hederman Hot Smoked Salmon w/ Chilies 500g",
+          "option1": "Hederman Hot Smoked Salmon w/ Chilies 500g",
+          "option2": null,
+          "option3": null,
+          "sku": "WShssc",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 58600441282904,
+            "product_id": 10083913990488,
+            "position": 4,
+            "created_at": "2024-10-21T16:25:37+01:00",
+            "updated_at": "2025-06-11T11:45:02+01:00",
+            "alt": null,
+            "width": 1024,
+            "height": 683,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/CNHederman_290.jpg?v=1749638702",
+            "variant_ids": [
+              50166680519000
+            ]
+          },
+          "available": true,
+          "price": "59.50",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 10083913990488,
+          "created_at": "2024-10-21T15:56:02+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 76822893658456,
+          "created_at": "2025-06-11T11:25:01+01:00",
+          "position": 1,
+          "updated_at": "2025-06-11T11:45:02+01:00",
+          "product_id": 10083913990488,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Hederman_Smokehouse_Cobh_Jan_25_34.jpg?v=1749638702",
+          "width": 3600,
+          "height": 2400
+        },
+        {
+          "id": 58600410415448,
+          "created_at": "2024-10-21T16:21:47+01:00",
+          "position": 2,
+          "updated_at": "2025-06-11T11:45:02+01:00",
+          "product_id": 10083913990488,
+          "variant_ids": [
+            50166680486232
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/CNHederman_274.jpg?v=1749638702",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "id": 58600441250136,
+          "created_at": "2024-10-21T16:22:32+01:00",
+          "position": 3,
+          "updated_at": "2025-06-11T11:45:02+01:00",
+          "product_id": 10083913990488,
+          "variant_ids": [
+            50166680453464
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/CNHederman_279.jpg?v=1749638702",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "id": 58600441282904,
+          "created_at": "2024-10-21T16:25:37+01:00",
+          "position": 4,
+          "updated_at": "2025-06-11T11:45:02+01:00",
+          "product_id": 10083913990488,
+          "variant_ids": [
+            50166680519000
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/CNHederman_290.jpg?v=1749638702",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "id": 58600441217368,
+          "created_at": "2024-10-21T16:22:32+01:00",
+          "position": 5,
+          "updated_at": "2025-06-11T11:45:02+01:00",
+          "product_id": 10083913990488,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/CNHederman_276.jpg?v=1749638702",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "id": 58600450392408,
+          "created_at": "2024-10-21T16:26:35+01:00",
+          "position": 6,
+          "updated_at": "2025-06-11T11:45:02+01:00",
+          "product_id": 10083913990488,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/CNHederman_284.jpg?v=1749638702",
+          "width": 1024,
+          "height": 683
+        },
+        {
+          "id": 76821536145752,
+          "created_at": "2025-06-11T10:24:50+01:00",
+          "position": 7,
+          "updated_at": "2025-06-11T11:45:02+01:00",
+          "product_id": 10083913990488,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/Hederman_Smokehouse_Cobh_Jan_25_33.jpg?v=1749638702",
+          "width": 3600,
+          "height": 2400
+        }
+      ],
+      "options": [
+        {
+          "name": "Choice",
+          "position": 1,
+          "values": [
+            "Hederman Cold Smoked Salmon 500g",
+            "Hederman Hot Smoked Salmon Plain 500g",
+            "Hederman Hot Smoked Salmon w/ Chilies 500g"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7096621138098,
+      "title": "Hederman Very Rare Wild Smoked Salmon",
+      "handle": "hederman-very-rare-wild-smoked-salmon",
+      "body_html": "<h4>\n<span style=\"color: #000000;\">WHY CHOOSE HEDERMAN WILD SMOKED IRISH SALMON</span><br>\n</h4>\n<p>Frank Hederman has one of only a handful of authentic timber smoke houses worldwide. Decades of smoking have blackened and seasoned every surface and crevice, and it is the unique atmosphere of this dark, silent space which imparts incomparable character to the smoked salmon.</p>\n<p>Frank is also one of the few producers who hangs his fish for smoking, and over 40 years behind him, his skills are unparalleled. This traditional hanging method is vital to the lean texture and depth of flavour that is consistent with our smoked salmon.</p>\n<p>He uses beech wood smoke rather than oak, for its milder tannins and subtlety, creating deliciously balanced smoked fish.</p>\n<h4>ORIGIN</h4>\n<p><span>Caught by draft net – seines, River Lee, County Cork, Ireland</span></p>\n<h4>INGREDIENTS<span> (Allergens in BOLD)</span>\n</h4>\n<p class=\"viewContent\">Irish Wild Salmon FISH (Salmo salar) 97%, salt 3%, beech wood smoke<br>May contain bones.</p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving</span></p>\n<h4>NUTRITIONAL INFORMATION</h4>\n<p class=\"viewContent\"><span>Quantity per 100g:</span><br><span>Energy: KJ 561 / kcal 133</span><br><span>Fat Total: 4.6g</span><br><span>Fat Saturated: .9g</span><br><span>Carbohydrate: 0</span><br><span>Protein: 23g</span><br><span>Sugars: 0</span><br><span>Salt: 1.27g</span></p>\n<h4><span>EXTRA INFORMATION</span></h4>\n<p><a href=\"https://frank-hederman.myshopify.com/pages/faqs\" title=\"Frequently Asked Questions\">Read our Salmon FAQs</a></p>\n<p class=\"MsoNormal\"> </p>",
+      "published_at": "2025-04-02T14:13:13+01:00",
+      "created_at": "2021-10-20T15:10:25+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "IrishWild",
+        "IrishWildSalmon",
+        "SmokedWild",
+        "SmokedWildSalmon",
+        "WildFish",
+        "Wildsalmon"
+      ],
+      "variants": [
+        {
+          "id": 50149227790680,
+          "title": "500g",
+          "option1": "500g",
+          "option2": null,
+          "option3": null,
+          "sku": "wildsalmon-0.5",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31405843120306,
+            "product_id": 7096621138098,
+            "position": 1,
+            "created_at": "2021-10-20T15:10:26+01:00",
+            "updated_at": "2021-10-20T15:10:28+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Wild.jpg?v=1634739028",
+            "variant_ids": [
+              47405200081240,
+              50149227790680,
+              50149233983832,
+              50149245649240,
+              50149246763352,
+              50149248958808,
+              50149250302296,
+              50149252727128,
+              50149257576792,
+              53553701880152,
+              53635572662616
+            ]
+          },
+          "available": false,
+          "price": "107.50",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7096621138098,
+          "created_at": "2024-10-18T15:18:37+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 50149233983832,
+          "title": "600g",
+          "option1": "600g",
+          "option2": null,
+          "option3": null,
+          "sku": "wildsalmon-0.6",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31405843120306,
+            "product_id": 7096621138098,
+            "position": 1,
+            "created_at": "2021-10-20T15:10:26+01:00",
+            "updated_at": "2021-10-20T15:10:28+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Wild.jpg?v=1634739028",
+            "variant_ids": [
+              47405200081240,
+              50149227790680,
+              50149233983832,
+              50149245649240,
+              50149246763352,
+              50149248958808,
+              50149250302296,
+              50149252727128,
+              50149257576792,
+              53553701880152,
+              53635572662616
+            ]
+          },
+          "available": false,
+          "price": "129.00",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7096621138098,
+          "created_at": "2024-10-18T15:19:19+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 47405200081240,
+          "title": "700g",
+          "option1": "700g",
+          "option2": null,
+          "option3": null,
+          "sku": "wildsalmon-0.7",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31405843120306,
+            "product_id": 7096621138098,
+            "position": 1,
+            "created_at": "2021-10-20T15:10:26+01:00",
+            "updated_at": "2021-10-20T15:10:28+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Wild.jpg?v=1634739028",
+            "variant_ids": [
+              47405200081240,
+              50149227790680,
+              50149233983832,
+              50149245649240,
+              50149246763352,
+              50149248958808,
+              50149250302296,
+              50149252727128,
+              50149257576792,
+              53553701880152,
+              53635572662616
+            ]
+          },
+          "available": false,
+          "price": "150.50",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7096621138098,
+          "created_at": "2023-11-01T12:01:13+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 50149245649240,
+          "title": "800g",
+          "option1": "800g",
+          "option2": null,
+          "option3": null,
+          "sku": "wildsalmon-0.8",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31405843120306,
+            "product_id": 7096621138098,
+            "position": 1,
+            "created_at": "2021-10-20T15:10:26+01:00",
+            "updated_at": "2021-10-20T15:10:28+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Wild.jpg?v=1634739028",
+            "variant_ids": [
+              47405200081240,
+              50149227790680,
+              50149233983832,
+              50149245649240,
+              50149246763352,
+              50149248958808,
+              50149250302296,
+              50149252727128,
+              50149257576792,
+              53553701880152,
+              53635572662616
+            ]
+          },
+          "available": true,
+          "price": "172.00",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 7096621138098,
+          "created_at": "2024-10-18T15:23:05+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 50149246763352,
+          "title": "900g",
+          "option1": "900g",
+          "option2": null,
+          "option3": null,
+          "sku": "wildsalmon-0.9",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31405843120306,
+            "product_id": 7096621138098,
+            "position": 1,
+            "created_at": "2021-10-20T15:10:26+01:00",
+            "updated_at": "2021-10-20T15:10:28+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Wild.jpg?v=1634739028",
+            "variant_ids": [
+              47405200081240,
+              50149227790680,
+              50149233983832,
+              50149245649240,
+              50149246763352,
+              50149248958808,
+              50149250302296,
+              50149252727128,
+              50149257576792,
+              53553701880152,
+              53635572662616
+            ]
+          },
+          "available": true,
+          "price": "193.50",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 7096621138098,
+          "created_at": "2024-10-18T15:23:38+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 50149248958808,
+          "title": "1Kg",
+          "option1": "1Kg",
+          "option2": null,
+          "option3": null,
+          "sku": "wildsalmon-1.0",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31405843120306,
+            "product_id": 7096621138098,
+            "position": 1,
+            "created_at": "2021-10-20T15:10:26+01:00",
+            "updated_at": "2021-10-20T15:10:28+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Wild.jpg?v=1634739028",
+            "variant_ids": [
+              47405200081240,
+              50149227790680,
+              50149233983832,
+              50149245649240,
+              50149246763352,
+              50149248958808,
+              50149250302296,
+              50149252727128,
+              50149257576792,
+              53553701880152,
+              53635572662616
+            ]
+          },
+          "available": false,
+          "price": "215.00",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 6,
+          "product_id": 7096621138098,
+          "created_at": "2024-10-18T15:24:22+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 50149250302296,
+          "title": "1.1Kg",
+          "option1": "1.1Kg",
+          "option2": null,
+          "option3": null,
+          "sku": "wildsalmon-1.1",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31405843120306,
+            "product_id": 7096621138098,
+            "position": 1,
+            "created_at": "2021-10-20T15:10:26+01:00",
+            "updated_at": "2021-10-20T15:10:28+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Wild.jpg?v=1634739028",
+            "variant_ids": [
+              47405200081240,
+              50149227790680,
+              50149233983832,
+              50149245649240,
+              50149246763352,
+              50149248958808,
+              50149250302296,
+              50149252727128,
+              50149257576792,
+              53553701880152,
+              53635572662616
+            ]
+          },
+          "available": false,
+          "price": "236.50",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 7,
+          "product_id": 7096621138098,
+          "created_at": "2024-10-18T15:25:12+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 53553701880152,
+          "title": "1.2Kg",
+          "option1": "1.2Kg",
+          "option2": null,
+          "option3": null,
+          "sku": "wildsalmon-1.2",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31405843120306,
+            "product_id": 7096621138098,
+            "position": 1,
+            "created_at": "2021-10-20T15:10:26+01:00",
+            "updated_at": "2021-10-20T15:10:28+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Wild.jpg?v=1634739028",
+            "variant_ids": [
+              47405200081240,
+              50149227790680,
+              50149233983832,
+              50149245649240,
+              50149246763352,
+              50149248958808,
+              50149250302296,
+              50149252727128,
+              50149257576792,
+              53553701880152,
+              53635572662616
+            ]
+          },
+          "available": false,
+          "price": "258.00",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 8,
+          "product_id": 7096621138098,
+          "created_at": "2024-11-07T10:38:04+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 50149252727128,
+          "title": "1.3Kg",
+          "option1": "1.3Kg",
+          "option2": null,
+          "option3": null,
+          "sku": "wildsalmon-1.3",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31405843120306,
+            "product_id": 7096621138098,
+            "position": 1,
+            "created_at": "2021-10-20T15:10:26+01:00",
+            "updated_at": "2021-10-20T15:10:28+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Wild.jpg?v=1634739028",
+            "variant_ids": [
+              47405200081240,
+              50149227790680,
+              50149233983832,
+              50149245649240,
+              50149246763352,
+              50149248958808,
+              50149250302296,
+              50149252727128,
+              50149257576792,
+              53553701880152,
+              53635572662616
+            ]
+          },
+          "available": false,
+          "price": "279.50",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 9,
+          "product_id": 7096621138098,
+          "created_at": "2024-10-18T15:25:56+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 53635572662616,
+          "title": "1.4Kg",
+          "option1": "1.4Kg",
+          "option2": null,
+          "option3": null,
+          "sku": "wildsalmon-1.4",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31405843120306,
+            "product_id": 7096621138098,
+            "position": 1,
+            "created_at": "2021-10-20T15:10:26+01:00",
+            "updated_at": "2021-10-20T15:10:28+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Wild.jpg?v=1634739028",
+            "variant_ids": [
+              47405200081240,
+              50149227790680,
+              50149233983832,
+              50149245649240,
+              50149246763352,
+              50149248958808,
+              50149250302296,
+              50149252727128,
+              50149257576792,
+              53553701880152,
+              53635572662616
+            ]
+          },
+          "available": false,
+          "price": "301.00",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 10,
+          "product_id": 7096621138098,
+          "created_at": "2024-11-19T14:59:15+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 50149257576792,
+          "title": "1.5Kg",
+          "option1": "1.5Kg",
+          "option2": null,
+          "option3": null,
+          "sku": "wildsalmon-1.5",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31405843120306,
+            "product_id": 7096621138098,
+            "position": 1,
+            "created_at": "2021-10-20T15:10:26+01:00",
+            "updated_at": "2021-10-20T15:10:28+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Wild.jpg?v=1634739028",
+            "variant_ids": [
+              47405200081240,
+              50149227790680,
+              50149233983832,
+              50149245649240,
+              50149246763352,
+              50149248958808,
+              50149250302296,
+              50149252727128,
+              50149257576792,
+              53553701880152,
+              53635572662616
+            ]
+          },
+          "available": false,
+          "price": "322.50",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 11,
+          "product_id": 7096621138098,
+          "created_at": "2024-10-18T15:26:37+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31405843120306,
+          "created_at": "2021-10-20T15:10:26+01:00",
+          "position": 1,
+          "updated_at": "2021-10-20T15:10:28+01:00",
+          "product_id": 7096621138098,
+          "variant_ids": [
+            47405200081240,
+            50149227790680,
+            50149233983832,
+            50149245649240,
+            50149246763352,
+            50149248958808,
+            50149250302296,
+            50149252727128,
+            50149257576792,
+            53553701880152,
+            53635572662616
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Wild.jpg?v=1634739028",
+          "width": 1320,
+          "height": 880
+        }
+      ],
+      "options": [
+        {
+          "name": "Size/piece",
+          "position": 1,
+          "values": [
+            "500g",
+            "600g",
+            "700g",
+            "800g",
+            "900g",
+            "1Kg",
+            "1.1Kg",
+            "1.2Kg",
+            "1.3Kg",
+            "1.4Kg",
+            "1.5Kg"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7111035224242,
+      "title": "C&C - Hederman Traditional Organic Cold Smoked Irish Salmon",
+      "handle": "c-c-traditional-beech-smoked-irish-salmon",
+      "body_html": "<h2><strong> Click and Collect only</strong></h2>\n<h4 class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">WHY CHOOSE HEDERMAN ORGANIC COLD SMOKED IRISH SALMON</h4>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">Frank Hederman made his reputation in the early days smoking wild fish. However, we are also really proud of our Organic Cold Smoked Irish Salmon. Numerous people who visit the smoke house and try both walk away with the organic as often as they take the wild.</p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">There might be more ‘travel’ in flavour with the wild – but our fish is really quite a revelation, and has converted many who say they don’t like smoked salmon at all, back to eating it again – regularly.</p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">We buy only the very best quality organic Irish fish and it is hung, like the wild fish, in our smoke house, a process which makes it remarkably lean, tender and delicious. We use beech wood smoke which is sweeter and more gentle than oak, and produces a delicious, balanced flavour.</p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">It is important to note that we are the <i style=\"mso-bidi-font-style: normal;\">only</i> Irish producers who smoke this way, in Ireland’s only traditional timber smoke house for seafood.</p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">You absolutely do not need lemon juice – more often used as a disguise for poorly smoked fish with the unpleasant notes of industrial farming. However, diced or thinly sliced red onion does a great job to enhance the flavour of well smoked salmon further still. Orange, fennel and simply dressed leaves make a nice side salad too.</p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">\"Mr Hederman smokes fish, which is a little like saying Steinway makes pianos.\" J. Apple - New York Times.<br><br></p>\n<h4 class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">PROVENANCE</h4>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">We are proud to say that all of our salmon—when not wild—is single-estate, sourced exclusively from Ocean Farm. Owned and organically managed by the Gallagher Brothers in Killybegs, this family-run business boasts over a century of fishing heritage, along with over 15 years of expertise in organic salmon farming, since 2010.</p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">Ocean Farm operates two organic sites along the Donegal coast, on the original wild Atlantic way. In fact, all Irish salmon farms are low-intensity, and organically managed, meaning—unlike conventional land farming—there is no risk of contamination from neighbouring sites.</p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">From the very beginning, we have been committed to sourcing only the highest quality, sustainably produced fish. However, until recently, we were unable to label our products as “organic”, as we had not yet completed the formal certification process.</p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">In 2026, we took that important step. Today, we are proud to offer certified Organic Cold Smoked Irish Salmon.<br><br></p>\n<h4 class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\">WHAT IS THE DIFFERENCE BETWEEN COLD SMOKED AND HOT SMOKED SALMON?</h4>\n<p class=\"MsoNormal\">Cold Smoked Salmon is produced at 21-23°C – so at room temperature. It has a cured – rather than a cooked texture. The textural contrast is not dissimilar to the difference between prosciutto crudo (cured, or raw ham) and prosciutto cotto, or cooked ham.</p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"> </p>\n<h4>ORIGIN</h4>\n<p><span>Atlantic Irish salmon, farmed on Ireland's west coast.</span></p>\n<h4>INGREDIENTS<span> (ALLERGENS IN BOLD)</span>\n</h4>\n<p><span>Irish Salmon FISH (<em>Salmo salar</em>) 97%, salt 3%. <br>Smoked with beechwood.<br></span><span>May contain bones</span> </p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving</span></p>\n<h4>NUTRITIONAL INFORMATION</h4>\n<p><span>Quantity per 100g:<br>Energy: KJ 561 / kcal 133<br>Fat Total: 4.6g<br>Fat Saturated: .9g<br>Carbohydrate: 0<br>Protein: 23g<br>Sugars: 0<br>Salt: 1.27g</span></p>",
+      "published_at": "2023-02-27T12:02:58+00:00",
+      "created_at": "2021-10-29T12:24:41+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 47380731625816,
+          "title": "Full Side - 1.2kg",
+          "option1": "Full Side - 1.2kg",
+          "option2": null,
+          "option3": null,
+          "sku": "css1.2kg",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 32347816034482,
+            "product_id": 7111035224242,
+            "position": 1,
+            "created_at": "2022-01-27T13:11:33+00:00",
+            "updated_at": "2022-01-27T13:12:05+00:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/smokedsalmon_602c1a73-b8b1-47f3-999f-05a2514f0464.jpg?v=1643289125",
+            "variant_ids": [
+              41241274679474,
+              47380731625816
+            ]
+          },
+          "available": true,
+          "price": "141.65",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7111035224242,
+          "created_at": "2023-10-25T12:21:40+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 41241274679474,
+          "title": "Full Side - 1.1kg",
+          "option1": "Full Side - 1.1kg",
+          "option2": null,
+          "option3": null,
+          "sku": "css1.1kg",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 32347816034482,
+            "product_id": 7111035224242,
+            "position": 1,
+            "created_at": "2022-01-27T13:11:33+00:00",
+            "updated_at": "2022-01-27T13:12:05+00:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/smokedsalmon_602c1a73-b8b1-47f3-999f-05a2514f0464.jpg?v=1643289125",
+            "variant_ids": [
+              41241274679474,
+              47380731625816
+            ]
+          },
+          "available": true,
+          "price": "129.85",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7111035224242,
+          "created_at": "2021-10-29T12:24:41+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 41241274745010,
+          "title": "500gr",
+          "option1": "500gr",
+          "option2": null,
+          "option3": null,
+          "sku": "css500gr",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31530268885170,
+            "product_id": 7111035224242,
+            "position": 3,
+            "created_at": "2021-10-29T12:24:45+01:00",
+            "updated_at": "2022-01-27T13:12:05+00:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/css_hand_9e73447c-8e37-4b3f-834e-b30b1f590b58.jpg?v=1643289125",
+            "variant_ids": [
+              41241274745010
+            ]
+          },
+          "available": true,
+          "price": "59.10",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7111035224242,
+          "created_at": "2021-10-29T12:24:41+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 32347816034482,
+          "created_at": "2022-01-27T13:11:33+00:00",
+          "position": 1,
+          "updated_at": "2022-01-27T13:12:05+00:00",
+          "product_id": 7111035224242,
+          "variant_ids": [
+            41241274679474,
+            47380731625816
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/smokedsalmon_602c1a73-b8b1-47f3-999f-05a2514f0464.jpg?v=1643289125",
+          "width": 1320,
+          "height": 880
+        },
+        {
+          "id": 31530268852402,
+          "created_at": "2021-10-29T12:24:45+01:00",
+          "position": 2,
+          "updated_at": "2022-01-27T13:12:05+00:00",
+          "product_id": 7111035224242,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/css_in_two_d9a805d4-741f-42b9-b4d6-12ec95a4ce64.jpg?v=1643289125",
+          "width": 1320,
+          "height": 880
+        },
+        {
+          "id": 31530268885170,
+          "created_at": "2021-10-29T12:24:45+01:00",
+          "position": 3,
+          "updated_at": "2022-01-27T13:12:05+00:00",
+          "product_id": 7111035224242,
+          "variant_ids": [
+            41241274745010
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/css_hand_9e73447c-8e37-4b3f-834e-b30b1f590b58.jpg?v=1643289125",
+          "width": 1320,
+          "height": 880
+        },
+        {
+          "id": 32347659174066,
+          "created_at": "2022-01-27T12:44:48+00:00",
+          "position": 4,
+          "updated_at": "2022-01-27T13:12:05+00:00",
+          "product_id": 7111035224242,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/HS_Hederman178.jpg?v=1643289125",
+          "width": 1000,
+          "height": 667
+        }
+      ],
+      "options": [
+        {
+          "name": "Options",
+          "position": 1,
+          "values": [
+            "Full Side - 1.2kg",
+            "Full Side - 1.1kg",
+            "500gr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7243577524402,
+      "title": "Smoked Wild Irish Eel",
+      "handle": "smoked-wild-irish-eel",
+      "body_html": "<p><strong>THIS PRODUCT IS AVAILABLE ONLY FOR IRELAND &amp; EUROPE </strong></p>\n<p>Expertly smoked and prepared by artisans at Belvelly Smokehouse.</p>\n<p>We are offering two options: two pieces totalling 500gr or two pieces totalling 600gr - shelf life of 10 days. Suitable for home freezing.<br></p>\n<p>Allergen: FISH</p>\n<h4>WHY<span> CHOOSE</span><span> </span>HEDERMAN SMOKED WILD IRISH EEL</h4>\n<p class=\"selectable-text copyable-text iq0m558w\" dir=\"ltr\"><span class=\"selectable-text copyable-text\">Frank Hederman is best known for his traditional cold smoked Irish salmon, but he has also developed a variety of luxurious options, including hot smoked eels.</span></p>\n<p class=\"selectable-text copyable-text iq0m558w\"><span class=\"selectable-text copyable-text\">The smoked eels are full of flavour and a true delicacy.</span></p>\n<p class=\"selectable-text copyable-text iq0m558w\"><span class=\"selectable-text copyable-text\">Our Silver Eels are from The </span>Lough Neagh Fishermen’s Co-operative, <span class=\"selectable-text copyable-text\">caught </span><span class=\"selectable-text copyable-text\">in nets at the company weirs on the River Bann. The Co-operative also leaves passes unfished to allow a 40% escape to the Saragossa to spawn. They also reduce fishing periods for future sustainability.</span></p>\n<p class=\"selectable-text copyable-text iq0m558w\"><span class=\"selectable-text copyable-text\"></span><span class=\"selectable-text copyable-text\">The Silver Eels are brined whole and hot smoked using beech wood. We use beech instead of oak because of its milder tannins and subtlety. This results</span><span class=\"selectable-text copyable-text\"> in a deliciously balanced smoked flavour.</span></p>\n<p class=\"selectable-text copyable-text iq0m558w\" dir=\"ltr\"><span class=\"selectable-text copyable-text\">“There's a top 10 of world-class delicacies, and this has got to be one of them. Along with things like, Tuscan virgin olive oil and Iberico ham … and caviar… this is the sort of thing I'm looking for wherever I go” Rick Stein about Hederman Smoked Eels, BBC - 2000.</span></p>\n<p> </p>\n<h4>ORIGIN</h4>\n<p><span>Caught in nets at the company weirs –</span> Lough Neagh - Northern Ireland.</p>\n<h4>INGREDIENTS<span> (Allergens in BOLD)</span>\n</h4>\n<p class=\"viewContent\">Irish Wild Eel FISH (Anguilla anguilla) 97%, salt 3%.<br><span>Smoked with beechwood.</span><br><span>May contain bones.</span><br></p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving.</span></p>\n<h4>NUTRITIONAL INFORMATION</h4>\n<p class=\"viewContent\"><span>Quantity per 100g:</span><br><span>Energy: KJ 746 / kcal 287</span><br><span>Fat Total: 11.5g</span><br><span>Fat Saturated: 3.1g</span><br><span>Carbohydrate: 0.1g</span><br><span>Protein: 19.1g</span><br><span>Sugars: 0.1g</span><br><span>Salt: .647mg</span></p>",
+      "published_at": "2023-02-10T11:06:01+00:00",
+      "created_at": "2022-03-08T14:04:14+00:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 42840742822066,
+          "title": "2 pieces total equals to 500gr",
+          "option1": "2 pieces total equals to 500gr",
+          "option2": null,
+          "option3": null,
+          "sku": "Eel",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": false,
+          "price": "69.80",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7243577524402,
+          "created_at": "2023-02-02T13:58:30+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 42840742854834,
+          "title": "2 pieces total equals to 400gr",
+          "option1": "2 pieces total equals to 400gr",
+          "option2": null,
+          "option3": null,
+          "sku": "Eel-2",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": false,
+          "price": "56.30",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7243577524402,
+          "created_at": "2023-02-02T13:58:30+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 35130342047922,
+          "created_at": "2023-02-10T11:24:42+00:00",
+          "position": 1,
+          "updated_at": "2023-02-10T11:25:45+00:00",
+          "product_id": 7243577524402,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Screenshot_282.jpg?v=1676028345",
+          "width": 869,
+          "height": 588
+        },
+        {
+          "id": 35131064516786,
+          "created_at": "2023-02-10T14:22:54+00:00",
+          "position": 2,
+          "updated_at": "2023-02-10T14:22:56+00:00",
+          "product_id": 7243577524402,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/WhatsAppImage2023-02-10at14.22.23.jpg?v=1676038976",
+          "width": 1024,
+          "height": 768
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "2 pieces total equals to 500gr",
+            "2 pieces total equals to 400gr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7111020609714,
+      "title": "C&C Hederman Organic Hot Smoked Irish Salmon",
+      "handle": "c-c-hederman-hot-smoked-irish-salmon",
+      "body_html": "<h2><strong> Click and Collect only </strong></h2>\n<h4 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; mso-outline-level: 4; background: white;\" class=\"MsoNormal\"><span style=\"mso-ansi-language: EN-IE;\">WHY CHOOSE HEDERMAN ORGANIC HOT SMOKED IRISH SALMON</span></h4>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\"><span style=\"mso-ansi-language: EN-IE;\">We are best known for our Organic Cold Smoked Irish Salmon, but we have also developed a considerable following for our luscious Organic Hot Smoked Irish salmon, succulent and ‘meaty’ fish with lots of flavour. </span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\"><span style=\"mso-ansi-language: EN-IE;\">Our hot smoked fish is organically farmed on west coast of Ireland. It is then cured and kiln–smoked over a live beech wood fire in small batches. </span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\"><span style=\"mso-ansi-language: EN-IE;\">It is sold whole, on-the-skin, unsliced. It flakes beautifully in shards, looking handsome on top of canapés, when the flavour and unctuous texture give plenty of momentum. It’s also a brilliant ingredient for tarts, fishcakes and fish pies, or for breakfast when it pairs deliciously with eggs, any which way!</span><span style=\"font-size: 12.0pt; font-family: 'Palatino Linotype',serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Arial; mso-ansi-language: EN-IE; mso-fareast-language: EN-IE;\"> </span></p>\n<h4 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\" class=\"MsoNormal\"><span lang=\"EN-GB\">PROVENANCE</span></h4>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"mso-ansi-language: EN-IE;\">We are proud to say that all of our salmon—when not wild—is single-estate, sourced exclusively from Ocean Farm. Owned and organically managed by the Gallagher Brothers in Killybegs, this family-run business boasts over a century of fishing heritage, along with over 15 years of expertise in organic salmon farming, since 2010.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"mso-ansi-language: EN-IE;\">Ocean Farm operates two organic sites along the Donegal coast, on the original wild Atlantic way. In fact, all Irish salmon farms are low-intensity, and organically managed, meaning—unlike conventional land farming—there is no risk of contamination from neighbouring sites.</span><span lang=\"EN-GB\" style=\"font-size: 12.0pt; font-family: 'Palatino Linotype',serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-fareast-language: EN-IE;\"></span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"mso-ansi-language: EN-IE;\">From the very beginning, we have been committed to sourcing only the highest quality, sustainably produced fish. However, until recently, we were unable to label our products “organic”, as we had not yet completed the formal certification process.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"mso-ansi-language: EN-IE;\">In 2026, we took that important step. Today, we are proud to offer certified Organic Hot Smoked Irish Salmon.</span></p>\n<h4 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\" class=\"MsoNormal\"><span lang=\"EN-GB\">WHAT IS THE DIFFERENCE BETWEEN HOT SMOKED AND COLD SMOKED SALMON?</span></h4>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"mso-ansi-language: EN-IE;\">Hederman hot smoked salmon is smoked and cooked at the same time, with temperatures reaching 75°C initially before a long slow smoke over live fire in the hot smoke kiln. This results in a product with a smoky flavour and cooked texture, rather like that of poached salmon. Hot smoked salmon flakes into succulent shards. </span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\"><span style=\"mso-ansi-language: EN-IE;\">Hederman cold smoked salmon on the other hand has a firm but tender, cured texture. The textural contrast is not dissimilar to the difference between prosciutto cotto, or cooked ham and prosciutto crudo (cured, or raw ham.)</span></p>\n<h4 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\" class=\"MsoNormal\"><span lang=\"EN-GB\">OTHER USES </span></h4>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\"><span style=\"mso-ansi-language: EN-IE;\">Crème fraîche and horseradish are the perfect partners to hot smoked on homemade gougères or unsweetened brioche, for example. <br></span><span style=\"mso-ansi-language: EN-IE;\">Hot smoked salmon is a particularly good breakfast product with poached eggs and toasted sourdough, with or without hollandaise. <br></span><span style=\"mso-ansi-language: EN-IE;\">At Christmas &amp; Easter, it is ideal for large, help–yourself lunch parties, as the whole side looks the part, and it’s really easy to serve – as long as you flake it rather than trying to slice it.</span></p>\n<p class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\"><span style=\"mso-ansi-language: EN-IE;\">\"Frank Hederman smoked salmon for breakfast and for lunch because it is so out of this world.\" Chef, The River Cafe, London </span></p>\n<h4><span>ORIGIN</span></h4>\n<p><span>Atlantic Irish salmon, farmed on Ireland's west coast.</span></p>\n<h4>INGREDIENTS (Allergens in BOLD)</h4>\n<p><span>Irish Salmon FISH (<em>Salmo salar</em>) 97%, salt 3%.<br>Smoked with beechwood.</span><br><span>May contain bones.</span> </p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving</span><span></span></p>\n<h4>NUTRITIONAL INFORMATION</h4>\n<p><span>Quantity per 100g:</span><br><span>Energy: KJ 947 / kcal 226</span><br><span>Fat Total: 12.5g</span><br><span>Fat Saturated: 3.3g</span><br><span>Carbohydrate: 0g</span><br><span>Sugars: 0g</span><br><span>Protein: 28.4g</span><br><span>Salt: .75g</span></p>\n<h4><br></h4>\n<h4><span>EXTRA INFORMATION</span></h4>\n<p><a title=\"Frequently Asked Questions\" href=\"https://frank-hederman.myshopify.com/pages/faqs\">Read our Salmon FAQs</a></p>",
+      "published_at": "2021-10-29T12:35:14+01:00",
+      "created_at": "2021-10-29T12:17:39+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 41241236766898,
+          "title": "Full Side - 1.1kg",
+          "option1": "Full Side - 1.1kg",
+          "option2": null,
+          "option3": null,
+          "sku": "hssp1.1kg",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31530170286258,
+            "product_id": 7111020609714,
+            "position": 1,
+            "created_at": "2021-10-29T12:17:44+01:00",
+            "updated_at": "2021-10-29T12:17:44+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/HSS_f39c3d69-64ca-458e-903a-a8e07483f3e3.jpg?v=1635506264",
+            "variant_ids": [
+              41241236766898,
+              47380762919256
+            ]
+          },
+          "available": true,
+          "price": "122.30",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7111020609714,
+          "created_at": "2021-10-29T12:17:39+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 47380762919256,
+          "title": "Full Side - 1.0kg",
+          "option1": "Full Side - 1.0kg",
+          "option2": null,
+          "option3": null,
+          "sku": "hssp1kg",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31530170286258,
+            "product_id": 7111020609714,
+            "position": 1,
+            "created_at": "2021-10-29T12:17:44+01:00",
+            "updated_at": "2021-10-29T12:17:44+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/HSS_f39c3d69-64ca-458e-903a-a8e07483f3e3.jpg?v=1635506264",
+            "variant_ids": [
+              41241236766898,
+              47380762919256
+            ]
+          },
+          "available": true,
+          "price": "111.20",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7111020609714,
+          "created_at": "2023-10-25T12:33:05+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 41241236832434,
+          "title": "500gr",
+          "option1": "500gr",
+          "option2": null,
+          "option3": null,
+          "sku": "hssp500gr",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31530170613938,
+            "product_id": 7111020609714,
+            "position": 3,
+            "created_at": "2021-10-29T12:17:45+01:00",
+            "updated_at": "2021-10-29T12:17:45+01:00",
+            "alt": null,
+            "width": 2048,
+            "height": 1536,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7099_7a06e456-442c-4ccf-8564-1f8f79cef011.jpg?v=1635506265",
+            "variant_ids": [
+              41241236832434
+            ]
+          },
+          "available": true,
+          "price": "55.60",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7111020609714,
+          "created_at": "2021-10-29T12:17:39+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 47516770664792,
+          "title": "300gr",
+          "option1": "300gr",
+          "option2": null,
+          "option3": null,
+          "sku": "hssp300gr",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31530170581170,
+            "product_id": 7111020609714,
+            "position": 2,
+            "created_at": "2021-10-29T12:17:44+01:00",
+            "updated_at": "2021-10-29T12:17:44+01:00",
+            "alt": null,
+            "width": 1600,
+            "height": 1200,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7167_459e206e-a7f4-47b9-92a2-174af18397eb.jpg?v=1635506264",
+            "variant_ids": [
+              47516770664792
+            ]
+          },
+          "available": true,
+          "price": "33.35",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 7111020609714,
+          "created_at": "2023-11-27T16:17:44+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31530170286258,
+          "created_at": "2021-10-29T12:17:44+01:00",
+          "position": 1,
+          "updated_at": "2021-10-29T12:17:44+01:00",
+          "product_id": 7111020609714,
+          "variant_ids": [
+            41241236766898,
+            47380762919256
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/HSS_f39c3d69-64ca-458e-903a-a8e07483f3e3.jpg?v=1635506264",
+          "width": 1320,
+          "height": 880
+        },
+        {
+          "id": 31530170581170,
+          "created_at": "2021-10-29T12:17:44+01:00",
+          "position": 2,
+          "updated_at": "2021-10-29T12:17:44+01:00",
+          "product_id": 7111020609714,
+          "variant_ids": [
+            47516770664792
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7167_459e206e-a7f4-47b9-92a2-174af18397eb.jpg?v=1635506264",
+          "width": 1600,
+          "height": 1200
+        },
+        {
+          "id": 31530170613938,
+          "created_at": "2021-10-29T12:17:45+01:00",
+          "position": 3,
+          "updated_at": "2021-10-29T12:17:45+01:00",
+          "product_id": 7111020609714,
+          "variant_ids": [
+            41241236832434
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7099_7a06e456-442c-4ccf-8564-1f8f79cef011.jpg?v=1635506265",
+          "width": 2048,
+          "height": 1536
+        }
+      ],
+      "options": [
+        {
+          "name": "Choice",
+          "position": 1,
+          "values": [
+            "Full Side - 1.1kg",
+            "Full Side - 1.0kg",
+            "500gr",
+            "300gr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7111025000626,
+      "title": "C&C -  Hederman Hot Smoked Irish Salmon with Chillies",
+      "handle": "c-c-hederman-hot-smoked-irish-salmon-with-chillies",
+      "body_html": "<h2><strong> Click and Collect only </strong></h2>\n<h4>WHY BUY HEDERMAN HOT SMOKED IRISH SALMON</h4>\n<p>We are best known for our traditional cold smoked Irish salmon, but we have also developed a considerable following for our luscious hot smoked, which comes plain or with chillies. </p>\n<p>It flakes beautifully and so looks handsome on top of canapes, when the flavour and unctuous texture give plenty of momentum. </p>\n<p>Creme fraiche and horseradish are the perfect partners to hot smoked on homemade gougeres or unsweetened brioche, just for example…</p>\n<p>Or, it’s particularly good with poached eggs and toasted sourdough, with or without hollandaise. </p>\n<p>At Christmas, it’s ideal for large, help–yourself lunch parties, as the whole side looks the part, and it’s really easy to serve – as long as you flake it rather than trying to slice it! </p>\n<p><span>Farmed organically on west coast of Ireland. Kiln–smoked over a live beech wood fire in County Cork. Unsliced. </span></p>\n<h4><span>ORIGIN</span></h4>\n<p><span>Atlantic Irish salmon, farmed organically on Ireland's west coast.</span></p>\n<h4><span>INGREDIENTS (ALLERGENS IN BOLD)</span></h4>\n<p><span>Organic Irish Salmon FISH (<em>Salmo salar</em>) 96%, salt 3%, chilli flakes 1%.<br>Smoked with beechwood.<br>May contain bones.<br></span></p>\n<h4><span>STORAGE</span></h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving</span></p>\n<h4><span>NUTRITIONAL INFORMATION</span></h4>\n<p><span>Quantity per 100g:</span><br><span>Energy: KJ 947 / kcal 226</span><br><span>Fat Total: 12.5g</span><br><span>Fat Saturated: 3.3g</span><br><span>Carbohydrate: 0g</span><br><span>Sugars: 0g</span><br><span>Protein: 28.4g</span><br><span>Salt: .75g</span></p>\n<p> </p>",
+      "published_at": "2021-10-29T12:26:24+01:00",
+      "created_at": "2021-10-29T12:19:42+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 41241251938482,
+          "title": "Full Side - 1.1kg",
+          "option1": "Full Side - 1.1kg",
+          "option2": null,
+          "option3": null,
+          "sku": "hssc1.1kg",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31530202235058,
+            "product_id": 7111025000626,
+            "position": 1,
+            "created_at": "2021-10-29T12:19:48+01:00",
+            "updated_at": "2021-10-29T12:19:48+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/HSmokedSalmonCHILLI_f14ac5e7-c4f4-4c87-8cf2-563f1a6d0464.jpg?v=1635506388",
+            "variant_ids": [
+              41241251938482,
+              47380757905752
+            ]
+          },
+          "available": true,
+          "price": "122.30",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7111025000626,
+          "created_at": "2021-10-29T12:19:42+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 47380757905752,
+          "title": "Full Side - 1.0kg",
+          "option1": "Full Side - 1.0kg",
+          "option2": null,
+          "option3": null,
+          "sku": "hssc1kg",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31530202235058,
+            "product_id": 7111025000626,
+            "position": 1,
+            "created_at": "2021-10-29T12:19:48+01:00",
+            "updated_at": "2021-10-29T12:19:48+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/HSmokedSalmonCHILLI_f14ac5e7-c4f4-4c87-8cf2-563f1a6d0464.jpg?v=1635506388",
+            "variant_ids": [
+              41241251938482,
+              47380757905752
+            ]
+          },
+          "available": true,
+          "price": "111.20",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7111025000626,
+          "created_at": "2023-10-25T12:30:14+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 41241252004018,
+          "title": "500gr",
+          "option1": "500gr",
+          "option2": null,
+          "option3": null,
+          "sku": "hssc500gr",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 32347675820210,
+            "product_id": 7111025000626,
+            "position": 2,
+            "created_at": "2022-01-27T12:47:00+00:00",
+            "updated_at": "2022-01-27T12:47:00+00:00",
+            "alt": null,
+            "width": 2048,
+            "height": 1536,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7171.jpg?v=1643287620",
+            "variant_ids": [
+              41241252004018
+            ]
+          },
+          "available": true,
+          "price": "55.60",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7111025000626,
+          "created_at": "2021-10-29T12:19:42+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 47516763849048,
+          "title": "300gr",
+          "option1": "300gr",
+          "option2": null,
+          "option3": null,
+          "sku": "hssc300gr",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 32347684110514,
+            "product_id": 7111025000626,
+            "position": 3,
+            "created_at": "2022-01-27T12:47:56+00:00",
+            "updated_at": "2022-01-27T12:47:56+00:00",
+            "alt": null,
+            "width": 1000,
+            "height": 667,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/picture-202.jpg?v=1643287676",
+            "variant_ids": [
+              47516763849048
+            ]
+          },
+          "available": true,
+          "price": "33.35",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 7111025000626,
+          "created_at": "2023-11-27T16:16:22+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31530202235058,
+          "created_at": "2021-10-29T12:19:48+01:00",
+          "position": 1,
+          "updated_at": "2021-10-29T12:19:48+01:00",
+          "product_id": 7111025000626,
+          "variant_ids": [
+            41241251938482,
+            47380757905752
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/HSmokedSalmonCHILLI_f14ac5e7-c4f4-4c87-8cf2-563f1a6d0464.jpg?v=1635506388",
+          "width": 1320,
+          "height": 880
+        },
+        {
+          "id": 32347675820210,
+          "created_at": "2022-01-27T12:47:00+00:00",
+          "position": 2,
+          "updated_at": "2022-01-27T12:47:00+00:00",
+          "product_id": 7111025000626,
+          "variant_ids": [
+            41241252004018
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7171.jpg?v=1643287620",
+          "width": 2048,
+          "height": 1536
+        },
+        {
+          "id": 32347684110514,
+          "created_at": "2022-01-27T12:47:56+00:00",
+          "position": 3,
+          "updated_at": "2022-01-27T12:47:56+00:00",
+          "product_id": 7111025000626,
+          "variant_ids": [
+            47516763849048
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/picture-202.jpg?v=1643287676",
+          "width": 1000,
+          "height": 667
+        },
+        {
+          "id": 32347756101810,
+          "created_at": "2022-01-27T12:59:37+00:00",
+          "position": 4,
+          "updated_at": "2022-01-27T12:59:37+00:00",
+          "product_id": 7111025000626,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7256.jpg?v=1643288377",
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "id": 32347760427186,
+          "created_at": "2022-01-27T13:00:33+00:00",
+          "position": 5,
+          "updated_at": "2022-01-27T13:00:33+00:00",
+          "product_id": 7111025000626,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7250.jpg?v=1643288433",
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Full Side",
+          "position": 1,
+          "values": [
+            "Full Side - 1.1kg",
+            "Full Side - 1.0kg",
+            "500gr",
+            "300gr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7094390915250,
+      "title": "Hederman Traditional Organic Cold Smoked Irish Salmon",
+      "handle": "traditional-beech-smoked-irish-salmon",
+      "body_html": "<h4 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">WHY CHOOSE HEDERMAN ORGANIC COLD SMOKED IRISH SALMON</h4>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">Frank Hederman made his reputation in the early days smoking wild fish. However, we are also really proud of our Organic Cold Smoked Irish Salmon. Numerous people who visit the smoke house and try both walk away with the organic as often as they take the wild.</p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">There might be more ‘travel’ in flavour with the wild – but our fish is really quite a revelation, and has converted many who say they don’t like smoked salmon at all, back to eating it again – regularly.</p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">We buy only the very best quality organic Irish fish and it is hung, like the wild fish, in our smoke house, a process which makes it remarkably lean, tender and delicious. We use beech wood smoke which is sweeter and more gentle than oak, and produces a delicious, balanced flavour.</p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">It is important to note that we are the <i style=\"mso-bidi-font-style: normal;\">only</i> Irish producers who smoke this way, in Ireland’s only traditional timber smoke house for seafood.</p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">You absolutely do not need lemon juice – more often used as a disguise for poorly smoked fish with the unpleasant notes of industrial farming. However, diced or thinly sliced red onion does a great job to enhance the flavour of well smoked salmon further still. Orange, fennel and simply dressed leaves make a nice side salad too.</p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">\"Mr Hederman smokes fish, which is a little like saying Steinway makes pianos.\" J. Apple - New York Times.<br><br></p>\n<h4 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">PROVENANCE</h4>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">We are proud to say that all of our salmon—when not wild—is single-estate, sourced exclusively from Ocean Farm. Owned and organically managed by the Gallagher Brothers in Killybegs, this family-run business boasts over a century of fishing heritage, along with over 15 years of expertise in organic salmon farming, since 2010.</p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">Ocean Farm operates two organic sites along the Donegal coast, on the original wild Atlantic way. In fact, all Irish salmon farms are low-intensity, and organically managed, meaning—unlike conventional land farming—there is no risk of contamination from neighbouring sites.</p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">From the very beginning, we have been committed to sourcing only the highest quality, sustainably produced fish. However, until recently, we were unable to label our products as “organic”, as we had not yet completed the formal certification process.</p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">In 2026, we took that important step. Today, we are proud to offer certified Organic Cold Smoked Irish Salmon.<br><br></p>\n<h4 style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\">WHAT IS THE DIFFERENCE BETWEEN COLD SMOKED AND HOT SMOKED SALMON?</h4>\n<p class=\"MsoNormal\">Cold Smoked Salmon is produced at 21-23°C – so at room temperature. It has a cured – rather than a cooked texture. The textural contrast is not dissimilar to the difference between prosciutto crudo (cured, or raw ham) and prosciutto cotto, or cooked ham.<br><br></p>\n<h4>ORIGIN</h4>\n<p><span>Atlantic Irish salmon, farmed on Ireland's west coast.</span></p>\n<h4>INGREDIENTS<span> (Allergens in BOLD)</span>\n</h4>\n<p><span>Irish Salmon FISH (<em>Salmo salar</em>) 97%, salt 3%.<br>Smoked with beechwood.</span><br><span>May contain bones.</span> </p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving</span></p>\n<h4>NUTRITIONAL INFORMATION</h4>\n<p><span>Quantity per 100g:<br>Energy: KJ 561 / kcal 133<br>Fat Total: 4.6g<br>Fat Saturated: .9g<br>Carbohydrate: 0<br>Protein: 23g<br>Sugars: 0<br>Salt: 1.27g</span></p>\n<h4><span>EXTRA INFORMATION</span></h4>\n<p><a title=\"Frequently Asked Questions\" href=\"https://frank-hederman.myshopify.com/pages/faqs\">Read our Salmon FAQs</a></p>\n<h4 class=\"\" data-action=\"viewList\"><br></h4>",
+      "published_at": "2021-10-19T10:14:34+01:00",
+      "created_at": "2021-10-19T10:08:20+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 47380777238872,
+          "title": "Full Side - 1.2kg",
+          "option1": "Full Side - 1.2kg",
+          "option2": null,
+          "option3": null,
+          "sku": "css-1.2kg",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31569180721330,
+            "product_id": 7094390915250,
+            "position": 1,
+            "created_at": "2021-11-01T13:51:59+00:00",
+            "updated_at": "2021-11-01T13:52:00+00:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/smokedsalmon.jpg?v=1635774720",
+            "variant_ids": [
+              41182766071986,
+              47380777238872
+            ]
+          },
+          "available": true,
+          "price": "141.65",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7094390915250,
+          "created_at": "2023-10-25T12:38:50+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 41182766071986,
+          "title": "Full Side - 1.1kg",
+          "option1": "Full Side - 1.1kg",
+          "option2": null,
+          "option3": null,
+          "sku": "css-1.1kg",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31569180721330,
+            "product_id": 7094390915250,
+            "position": 1,
+            "created_at": "2021-11-01T13:51:59+00:00",
+            "updated_at": "2021-11-01T13:52:00+00:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/smokedsalmon.jpg?v=1635774720",
+            "variant_ids": [
+              41182766071986,
+              47380777238872
+            ]
+          },
+          "available": true,
+          "price": "129.85",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7094390915250,
+          "created_at": "2021-10-19T10:08:20+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 41182779867314,
+          "title": "500g",
+          "option1": "500g",
+          "option2": null,
+          "option3": null,
+          "sku": "css-500gr",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31382774186162,
+            "product_id": 7094390915250,
+            "position": 3,
+            "created_at": "2021-10-19T10:14:10+01:00",
+            "updated_at": "2021-10-19T10:14:10+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/css_hand.jpg?v=1634634850",
+            "variant_ids": [
+              41182779867314
+            ]
+          },
+          "available": true,
+          "price": "59.10",
+          "grams": 1500,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7094390915250,
+          "created_at": "2021-10-19T10:14:24+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31569180721330,
+          "created_at": "2021-11-01T13:51:59+00:00",
+          "position": 1,
+          "updated_at": "2021-11-01T13:52:00+00:00",
+          "product_id": 7094390915250,
+          "variant_ids": [
+            41182766071986,
+            47380777238872
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/smokedsalmon.jpg?v=1635774720",
+          "width": 1320,
+          "height": 880
+        },
+        {
+          "id": 31382757540018,
+          "created_at": "2021-10-19T10:12:57+01:00",
+          "position": 2,
+          "updated_at": "2021-10-19T10:12:57+01:00",
+          "product_id": 7094390915250,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/css_in_two.jpg?v=1634634777",
+          "width": 1320,
+          "height": 880
+        },
+        {
+          "id": 31382774186162,
+          "created_at": "2021-10-19T10:14:10+01:00",
+          "position": 3,
+          "updated_at": "2021-10-19T10:14:10+01:00",
+          "product_id": 7094390915250,
+          "variant_ids": [
+            41182779867314
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/css_hand.jpg?v=1634634850",
+          "width": 1320,
+          "height": 880
+        }
+      ],
+      "options": [
+        {
+          "name": "Options",
+          "position": 1,
+          "values": [
+            "Full Side - 1.2kg",
+            "Full Side - 1.1kg",
+            "500g"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7036412690610,
+      "title": "C&C - Poached Salmon & Crab Marie Rose",
+      "handle": "poached-salmon-crab-marie-rose",
+      "body_html": "<h2 data-mce-fragment=\"1\"><strong>Click and Collect only </strong></h2>\n<p>250g or 500g of creamy &amp; luxurious poached salmon and crab salad. Delicious on crusty bread or with a salad platter.</p>\n<h4>WHY BUY HEDERMAN SMOKED FISH PATES</h4>\n<p>We handmake all out our pate fresh for market or to order, in our smoke house kitchen using our own smoked fish and the simplest of ingredients. We add no preservatives or flavourings that are not real food.</p>\n<h4>INGREDIENTS<span data-mce-fragment=\"1\"> (Allergens in BOLD)</span>\n</h4>\n<p><span data-mce-fragment=\"1\">Irish Poached Salmon FISH (Salmo salar), </span><span data-mce-fragment=\"1\">Atlantic Irish salmon farmed on Ireland's west coast, </span><span data-mce-fragment=\"1\">Crabmeat CRUSTACEAN, Marie Rose dressing DAIRY, EGG, MUSTARD, herbs and seasoning.</span></p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving.</span></p>\n<p><span>Shelf Life: 5 days from production </span></p>",
+      "published_at": "2021-09-21T11:30:45+01:00",
+      "created_at": "2021-09-21T10:56:21+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 41190914326706,
+          "title": "500 g",
+          "option1": "500 g",
+          "option2": null,
+          "option3": null,
+          "sku": "scrab500",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30946417901746,
+            "product_id": 7036412690610,
+            "position": 1,
+            "created_at": "2021-09-21T10:56:21+01:00",
+            "updated_at": "2024-10-29T13:56:51+00:00",
+            "alt": null,
+            "width": 1492,
+            "height": 1491,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/salmonandcrab.jpg?v=1730210211",
+            "variant_ids": [
+              41190914326706,
+              47274964582744
+            ]
+          },
+          "available": true,
+          "price": "30.45",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7036412690610,
+          "created_at": "2021-10-20T15:54:33+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 47274964582744,
+          "title": "250 g",
+          "option1": "250 g",
+          "option2": null,
+          "option3": null,
+          "sku": "scrab250",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30946417901746,
+            "product_id": 7036412690610,
+            "position": 1,
+            "created_at": "2021-09-21T10:56:21+01:00",
+            "updated_at": "2024-10-29T13:56:51+00:00",
+            "alt": null,
+            "width": 1492,
+            "height": 1491,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/salmonandcrab.jpg?v=1730210211",
+            "variant_ids": [
+              41190914326706,
+              47274964582744
+            ]
+          },
+          "available": true,
+          "price": "15.25",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7036412690610,
+          "created_at": "2023-09-27T11:43:41+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 30946417901746,
+          "created_at": "2021-09-21T10:56:21+01:00",
+          "position": 1,
+          "updated_at": "2024-10-29T13:56:51+00:00",
+          "product_id": 7036412690610,
+          "variant_ids": [
+            41190914326706,
+            47274964582744
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/salmonandcrab.jpg?v=1730210211",
+          "width": 1492,
+          "height": 1491
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "500 g",
+            "250 g"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7036403581106,
+      "title": "C&C - Smoked Salmon Pate",
+      "handle": "smoked-salmon-pate-250gr",
+      "body_html": "<h2 data-mce-fragment=\"1\"><strong>Click and Collect only </strong></h2>\n<p><span data-mce-fragment=\"1\">250g or 500g of rich creamy smoked salmon pate. Delicious on crusty bread or with a salad platter</span></p>\n<h4>WHY<span> CHOOSE</span><span> </span>HEDERMAN SMOKED FISH PATES</h4>\n<p><span>We handmake all out our pate fresh for market or to order, in our smoke house kitchen using our own smoked fish and the simplest of ingredients. We add no preservatives or flavourings that are not real food</span></p>\n<h4>INGREDIENTS<span data-mce-fragment=\"1\"> (Allergens in BOLD)</span>\n</h4>\n<p data-mce-fragment=\"1\"><span>Irish Salmon FISH (Salmo salar) 97%, salt 3%, beech wood smoke, cream cheese (DAIRY), lemon juice, seasoning</span></p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving</span></p>\n<p><span>Shelf Life: 5 days from production </span></p>",
+      "published_at": "2021-09-21T11:03:16+01:00",
+      "created_at": "2021-09-21T10:39:10+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 41195502436530,
+          "title": "500 g",
+          "option1": "500 g",
+          "option2": null,
+          "option3": null,
+          "sku": "spate500",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30946189705394,
+            "product_id": 7036403581106,
+            "position": 1,
+            "created_at": "2021-09-21T10:39:10+01:00",
+            "updated_at": "2024-10-29T13:59:56+00:00",
+            "alt": null,
+            "width": 1343,
+            "height": 1343,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Salmonpate.jpg?v=1730210396",
+            "variant_ids": [
+              41195502436530,
+              47283026854232
+            ]
+          },
+          "available": true,
+          "price": "28.10",
+          "grams": 500,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7036403581106,
+          "created_at": "2021-10-21T11:03:51+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 47283026854232,
+          "title": "250g",
+          "option1": "250g",
+          "option2": null,
+          "option3": null,
+          "sku": "spate250",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30946189705394,
+            "product_id": 7036403581106,
+            "position": 1,
+            "created_at": "2021-09-21T10:39:10+01:00",
+            "updated_at": "2024-10-29T13:59:56+00:00",
+            "alt": null,
+            "width": 1343,
+            "height": 1343,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Salmonpate.jpg?v=1730210396",
+            "variant_ids": [
+              41195502436530,
+              47283026854232
+            ]
+          },
+          "available": true,
+          "price": "14.05",
+          "grams": 250,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7036403581106,
+          "created_at": "2023-09-29T10:23:15+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 30946189705394,
+          "created_at": "2021-09-21T10:39:10+01:00",
+          "position": 1,
+          "updated_at": "2024-10-29T13:59:56+00:00",
+          "product_id": 7036403581106,
+          "variant_ids": [
+            41195502436530,
+            47283026854232
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Salmonpate.jpg?v=1730210396",
+          "width": 1343,
+          "height": 1343
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "500 g",
+            "250g"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7036411478194,
+      "title": "C&C - Smoked Salmon Crush",
+      "handle": "smoked-salmon-crush",
+      "body_html": "<h2 data-mce-fragment=\"1\"><strong>Click and Collect only </strong></h2>\n<p><span data-mce-fragment=\"1\">250g or 500g of fresh and zesty smoked salmon crush. Delicious on crusty bread or with a salad platter.</span></p>\n<h4>WHY BUY HEDERMAN SMOKED FISH PATES?</h4>\n<p>We handmake all out our pate fresh for market or to order, in our smoke house kitchen using our own smoked fish and the simplest of ingredients. We add no preservatives or flavourings that are not real food.</p>\n<h4>INGREDIENTS<span data-mce-fragment=\"1\"> (ALLERGENS IN BOLD)</span>\n</h4>\n<p><span>Irish Hot Smoked Salmon FISH (Salmo salar) 97%, salt 3%, beech wood smoke, creme fraiche DAIRY Horseradish Cream EGG, MUSTARD, herbs and seasoning.</span></p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving.</span></p>\n<p><span>Shelf Life: 3 days from production </span></p>",
+      "published_at": "2021-09-21T11:00:25+01:00",
+      "created_at": "2021-09-21T10:53:32+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 41190933495986,
+          "title": "500 g",
+          "option1": "500 g",
+          "option2": null,
+          "option3": null,
+          "sku": "scrush500",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30946382741682,
+            "product_id": 7036411478194,
+            "position": 1,
+            "created_at": "2021-09-21T10:53:32+01:00",
+            "updated_at": "2024-10-29T13:58:55+00:00",
+            "alt": null,
+            "width": 1492,
+            "height": 1491,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Salmoncrush.jpg?v=1730210335",
+            "variant_ids": [
+              41190933495986,
+              47283019022680
+            ]
+          },
+          "available": true,
+          "price": "30.45",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7036411478194,
+          "created_at": "2021-10-20T16:00:44+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 47283019022680,
+          "title": "250 g",
+          "option1": "250 g",
+          "option2": null,
+          "option3": null,
+          "sku": "scrush250",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30946382741682,
+            "product_id": 7036411478194,
+            "position": 1,
+            "created_at": "2021-09-21T10:53:32+01:00",
+            "updated_at": "2024-10-29T13:58:55+00:00",
+            "alt": null,
+            "width": 1492,
+            "height": 1491,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Salmoncrush.jpg?v=1730210335",
+            "variant_ids": [
+              41190933495986,
+              47283019022680
+            ]
+          },
+          "available": true,
+          "price": "15.25",
+          "grams": 250,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7036411478194,
+          "created_at": "2023-09-29T10:20:32+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 30946382741682,
+          "created_at": "2021-09-21T10:53:32+01:00",
+          "position": 1,
+          "updated_at": "2024-10-29T13:58:55+00:00",
+          "product_id": 7036411478194,
+          "variant_ids": [
+            41190933495986,
+            47283019022680
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Salmoncrush.jpg?v=1730210335",
+          "width": 1492,
+          "height": 1491
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "500 g",
+            "250 g"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7036409905330,
+      "title": "C&C - Smoked Mackerel Pate",
+      "handle": "smoked-mackerel-pate-250gr",
+      "body_html": "<h2 data-mce-fragment=\"1\"><strong>Click and Collect only </strong></h2>\n<p data-mce-fragment=\"1\"><span data-mce-fragment=\"1\">250g or 500g of rich creamy smoked mackerel pate. Delicious on crusty bread or with a salad platter</span></p>\n<h4>WHY BUY HEDERMAN SMOKED FISH PATES</h4>\n<p>We handmake all out our pate fresh for market or to order, in our smoke house kitchen using our own smoked fish and the simplest of ingredients. We add no preservatives or flavourings that are not real food</p>\n<h4>INGREDIENTS<span data-mce-fragment=\"1\"> (ALLERGENS IN BOLD)</span>\n</h4>\n<p><span>Irish Smoked Mackerel FISH 97%, salt 3%, beech wood smoke, cream cheese (DAIRY), lemon juice, seasoning</span></p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving<br></span></p>\n<p>Shelf Life: 5 days from production </p>",
+      "published_at": "2021-09-21T11:00:10+01:00",
+      "created_at": "2021-09-21T10:49:23+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 41190939525298,
+          "title": "500gr",
+          "option1": "500gr",
+          "option2": null,
+          "option3": null,
+          "sku": "mpate500",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30946337718450,
+            "product_id": 7036409905330,
+            "position": 1,
+            "created_at": "2021-09-21T10:49:23+01:00",
+            "updated_at": "2024-10-29T13:57:45+00:00",
+            "alt": null,
+            "width": 1492,
+            "height": 1491,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Mackerelpate-Copy.jpg?v=1730210265",
+            "variant_ids": [
+              41190939525298,
+              47283010961752
+            ]
+          },
+          "available": true,
+          "price": "28.10",
+          "grams": 500,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7036409905330,
+          "created_at": "2021-10-20T16:02:53+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 47283010961752,
+          "title": "250 g",
+          "option1": "250 g",
+          "option2": null,
+          "option3": null,
+          "sku": "mpate250",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30946337718450,
+            "product_id": 7036409905330,
+            "position": 1,
+            "created_at": "2021-09-21T10:49:23+01:00",
+            "updated_at": "2024-10-29T13:57:45+00:00",
+            "alt": null,
+            "width": 1492,
+            "height": 1491,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Mackerelpate-Copy.jpg?v=1730210265",
+            "variant_ids": [
+              41190939525298,
+              47283010961752
+            ]
+          },
+          "available": true,
+          "price": "14.05",
+          "grams": 250,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7036409905330,
+          "created_at": "2023-09-29T10:18:19+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 30946337718450,
+          "created_at": "2021-09-21T10:49:23+01:00",
+          "position": 1,
+          "updated_at": "2024-10-29T13:57:45+00:00",
+          "product_id": 7036409905330,
+          "variant_ids": [
+            41190939525298,
+            47283010961752
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/Mackerelpate-Copy.jpg?v=1730210265",
+          "width": 1492,
+          "height": 1491
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "500gr",
+            "250 g"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7036412002482,
+      "title": "C&C - Smoked Mackerel Crush",
+      "handle": "smoked-mackerel-crush",
+      "body_html": "<h2 data-mce-fragment=\"1\"><strong>Click and Collect only </strong></h2>\n<p><span data-mce-fragment=\"1\">250g or 500g of fresh and zesty smoked mackerel crush. Delicious on crusty bread or with a salad platter</span></p>\n<h4>WHY BUY HEDERMAN SMOKED FISH PATES</h4>\n<p>We handmake all out our pate fresh for market or to order, in our smoke house kitchen using our own smoked fish and the simplest of ingredients. We add no preservatives or flavourings that are not real food</p>\n<h4>INGREDIENTS<span data-mce-fragment=\"1\"> (ALLERGENS IN BOLD)</span>\n</h4>\n<p><span data-mce-fragment=\"1\">Irish Hot Smoked Mackerel FISH 97%, salt 3%, beech wood smoke, creme fraiche DAIRY Horseradish Cream EGG, MUSTARD, herbs and seasoning</span></p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving</span></p>\n<p><span>Shelf Life: 5 days from production </span></p>",
+      "published_at": "2021-09-21T10:57:43+01:00",
+      "created_at": "2021-09-21T10:54:55+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 41190923927730,
+          "title": "500 g",
+          "option1": "500 g",
+          "option2": null,
+          "option3": null,
+          "sku": "mcrush500",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30946399748274,
+            "product_id": 7036412002482,
+            "position": 1,
+            "created_at": "2021-09-21T10:54:55+01:00",
+            "updated_at": "2024-10-29T13:58:18+00:00",
+            "alt": null,
+            "width": 1492,
+            "height": 1491,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/MackerelCrush.jpg?v=1730210298",
+            "variant_ids": [
+              41190923927730,
+              47282975146328
+            ]
+          },
+          "available": true,
+          "price": "30.45",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7036412002482,
+          "created_at": "2021-10-20T15:57:44+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 47282975146328,
+          "title": "250 g",
+          "option1": "250 g",
+          "option2": null,
+          "option3": null,
+          "sku": "mcrush250",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30946399748274,
+            "product_id": 7036412002482,
+            "position": 1,
+            "created_at": "2021-09-21T10:54:55+01:00",
+            "updated_at": "2024-10-29T13:58:18+00:00",
+            "alt": null,
+            "width": 1492,
+            "height": 1491,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/MackerelCrush.jpg?v=1730210298",
+            "variant_ids": [
+              41190923927730,
+              47282975146328
+            ]
+          },
+          "available": true,
+          "price": "15.25",
+          "grams": 250,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7036412002482,
+          "created_at": "2023-09-29T10:13:43+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 30946399748274,
+          "created_at": "2021-09-21T10:54:55+01:00",
+          "position": 1,
+          "updated_at": "2024-10-29T13:58:18+00:00",
+          "product_id": 7036412002482,
+          "variant_ids": [
+            41190923927730,
+            47282975146328
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/MackerelCrush.jpg?v=1730210298",
+          "width": 1492,
+          "height": 1491
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "500 g",
+            "250 g"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7036401877170,
+      "title": "C&C - Smoked Farmhouse Butter",
+      "handle": "smoked-farmhouse-butter",
+      "body_html": "<h2 data-mce-fragment=\"1\"><strong>Click and Collect only </strong></h2>\n<p><span data-mce-fragment=\"1\">220g of rich smoky Irish farmhouse butter. Delicious on crusty bread or in any cream or egg dishes. Use for cooking as you would use ordinary butter, maybe mixing 50:50 smoked:unsmoked.</span></p>\n<h4>WHY BUY HEDERMAN SMOKED BUTTER</h4>\n<p>Yes, you can smoke butter … in a cold smoker where temperatures average 21 degrees, and the result is absolutely delicious, although it should be used sparingly as it’s incredibly rich. We smoke unsalted Glenstal Abbey country butter from County Limerick, again using beechwood<br></p>\n<h4>INGREDIENTS<span data-mce-fragment=\"1\"> (Allergens in BOLD)</span>\n</h4>\n<p><span>Butter DAIRY</span></p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving</span></p>",
+      "published_at": "2021-09-21T10:57:42+01:00",
+      "created_at": "2021-09-21T10:36:34+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 41012273643698,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "butter",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "9.60",
+          "grams": 200,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7036401877170,
+          "created_at": "2021-09-21T10:36:35+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31115958452402,
+          "created_at": "2021-10-01T14:21:54+01:00",
+          "position": 1,
+          "updated_at": "2021-10-01T14:45:20+01:00",
+          "product_id": 7036401877170,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/A-Hedermans-Edited-IMG_0324.jpg?v=1633095920",
+          "width": 1320,
+          "height": 880
+        },
+        {
+          "id": 30946151923890,
+          "created_at": "2021-09-21T10:36:34+01:00",
+          "position": 2,
+          "updated_at": "2021-10-01T14:45:45+01:00",
+          "product_id": 7036401877170,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/smokedbutter.jpg?v=1633095945",
+          "width": 1320,
+          "height": 880
+        },
+        {
+          "id": 31115936891058,
+          "created_at": "2021-10-01T14:20:06+01:00",
+          "position": 3,
+          "updated_at": "2021-10-01T14:20:07+01:00",
+          "product_id": 7036401877170,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7237.jpg?v=1633094407",
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "id": 31115931746482,
+          "created_at": "2021-10-01T14:19:42+01:00",
+          "position": 4,
+          "updated_at": "2021-10-01T14:19:44+01:00",
+          "product_id": 7036401877170,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/A-Hedermans-Edited-IMG_0337.jpg?v=1633094384",
+          "width": 1506,
+          "height": 960
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7034530988210,
+      "title": "C&C Smoked Mussels in Mustard Vinaigrette",
+      "handle": "smoked-mussels-in-mustard-vinaigrette",
+      "body_html": "<h2 data-mce-fragment=\"1\"><strong>Click and Collect only </strong></h2>\n<p data-mce-fragment=\"1\"><span>250g or 500g of Smoked mussels in whole grain mustard vinaigrette.</span></p>\n<h4>WHY BUY HEDERMAN SMOKED MUSSELS</h4>\n<p data-mce-fragment=\"1\">These mussels have been cooked, cold smoked over beechwood and then marinated in a delicious creamy vinaigrette, made with whole grain mustard and rapeseed oil. They are delicious eaten just as they are, or served on hot buttered toast. They also make a good salad ingredient in that they come with a ready–made vinaigrette!</p>\n<h4>INGREDIENTS<span data-mce-fragment=\"1\"> (ALLERGENS IN BOLD)</span>\n</h4>\n<p><span data-mce-fragment=\"1\">Cooked, beechwood smoked ropegrown mussels (MOLLUSCS) 63%, vinaigrette 37% (Irish rapeseed oil, olive oil, vinegar, wholegrain MUSTARD) May contain shell fragments.</span></p>\n<h4>ORIGIN</h4>\n<p><span>Rope Grown, Chile</span></p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving.</span></p>",
+      "published_at": "2021-09-20T16:39:43+01:00",
+      "created_at": "2021-09-20T16:39:12+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [
+        "Click & Collect"
+      ],
+      "variants": [
+        {
+          "id": 47283035930968,
+          "title": "500 g",
+          "option1": "500 g",
+          "option2": null,
+          "option3": null,
+          "sku": "mussels500g",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30931431293106,
+            "product_id": 7034530988210,
+            "position": 1,
+            "created_at": "2021-09-20T16:39:12+01:00",
+            "updated_at": "2024-10-29T14:01:44+00:00",
+            "alt": null,
+            "width": 1172,
+            "height": 837,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7303.jpg?v=1730210504",
+            "variant_ids": [
+              47283035930968,
+              47283036356952
+            ]
+          },
+          "available": true,
+          "price": "28.10",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7034530988210,
+          "created_at": "2023-09-29T10:27:29+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 47283036356952,
+          "title": "250 g",
+          "option1": "250 g",
+          "option2": null,
+          "option3": null,
+          "sku": "mussels250g",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30931431293106,
+            "product_id": 7034530988210,
+            "position": 1,
+            "created_at": "2021-09-20T16:39:12+01:00",
+            "updated_at": "2024-10-29T14:01:44+00:00",
+            "alt": null,
+            "width": 1172,
+            "height": 837,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7303.jpg?v=1730210504",
+            "variant_ids": [
+              47283035930968,
+              47283036356952
+            ]
+          },
+          "available": true,
+          "price": "14.05",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7034530988210,
+          "created_at": "2023-09-29T10:27:49+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 30931431293106,
+          "created_at": "2021-09-20T16:39:12+01:00",
+          "position": 1,
+          "updated_at": "2024-10-29T14:01:44+00:00",
+          "product_id": 7034530988210,
+          "variant_ids": [
+            47283035930968,
+            47283036356952
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7303.jpg?v=1730210504",
+          "width": 1172,
+          "height": 837
+        },
+        {
+          "id": 30931431260338,
+          "created_at": "2021-09-20T16:39:12+01:00",
+          "position": 2,
+          "updated_at": "2021-10-01T14:47:18+01:00",
+          "product_id": 7034530988210,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7324.jpg?v=1633096038",
+          "width": 1320,
+          "height": 880
+        },
+        {
+          "id": 30931431227570,
+          "created_at": "2021-09-20T16:39:12+01:00",
+          "position": 3,
+          "updated_at": "2021-09-20T16:39:14+01:00",
+          "product_id": 7034530988210,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7214.jpg?v=1632152354",
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Size",
+          "position": 1,
+          "values": [
+            "500 g",
+            "250 g"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7001523716274,
+      "title": "Hederman Hot Smoked Irish Salmon with Chillies",
+      "handle": "hederman-hot-smoked-irish-salmon-with-chillies",
+      "body_html": "<h4>WHY CHOOSE HEDERMAN HOT SMOKED IRISH SALMON</h4>\n<p>We are best known for our traditional cold smoked Irish salmon, but we have also developed a considerable following for our luscious hot smoked, which comes plain or with chillies. </p>\n<p>It flakes beautifully and so looks handsome on top of canapes, when the flavour and unctuous texture give plenty of momentum. </p>\n<p>Creme fraiche and horseradish are the perfect partners to hot smoked on homemade gougeres or unsweetened brioche, just for example…</p>\n<p>Or, it’s particularly good with poached eggs and toasted sourdough, with or without hollandaise. </p>\n<p>At Christmas, it’s ideal for large, help–yourself lunch parties, as the whole side looks the part, and it’s really easy to serve – as long as you flake it rather than trying to slice it! </p>\n<p><span>Farmed organically on west coast of Ireland. Kiln–smoked over a live beech wood fire in County Cork. Unsliced. </span></p>\n<p><span>\"I talked too much about your chilli pepper one.\" Germany, Jan 2019.</span></p>\n<p><span>\"Amazing! Chilli Salmon!\"  Cobh, Co Cork </span></p>\n<p> </p>\n<h4><span>ORIGIN</span></h4>\n<p><span>Atlantic Irish salmon, farmed organically on Ireland's west coast.</span></p>\n<h4><span>INGREDIENTS (Allergens in BOLD)</span></h4>\n<p><span>Organic Irish Salmon FISH (<em>Salmo salar</em>) 96%, salt 3%, chilli flakes 1%.<br>Smoked with beechwood.</span><br><span>May contain bones.</span></p>\n<h4><span>STORAGE</span></h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving.</span><span></span></p>\n<h4><span>NUTRITIONAL INFORMATION</span></h4>\n<p><span>Quantity per 100g:</span><br><span>Energy: KJ 947 / kcal 226</span><br><span>Fat Total: 12.5g</span><br><span>Fat Saturated: 3.3g</span><br><span>Carbohydrate: 0g</span><br><span>Sugars: 0g</span><br><span>Protein: 28.4g<br>Salt: .75g<br></span><span></span><span></span></p>\n<h4><span>EXTRA INFORMATION</span></h4>\n<p><a title=\"Frequently Asked Questions\" href=\"https://frank-hederman.myshopify.com/pages/faqs\">Read our Salmon FAQs</a></p>",
+      "published_at": "2021-09-06T15:47:26+01:00",
+      "created_at": "2021-09-06T15:14:43+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 41063781236914,
+          "title": "Full Side - 1.1kg",
+          "option1": "Full Side - 1.1kg",
+          "option2": null,
+          "option3": null,
+          "sku": "hssc.full1.1kg",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31572074823858,
+            "product_id": 7001523716274,
+            "position": 1,
+            "created_at": "2021-11-01T17:16:56+00:00",
+            "updated_at": "2021-11-01T17:16:58+00:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/HSSC.jpg?v=1635787018",
+            "variant_ids": [
+              41063781236914,
+              42527180161202
+            ]
+          },
+          "available": true,
+          "price": "122.30",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 7001523716274,
+          "created_at": "2021-09-28T12:27:08+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 42527180161202,
+          "title": "Full Side - 1kg",
+          "option1": "Full Side - 1kg",
+          "option2": null,
+          "option3": null,
+          "sku": "hssc-1kg",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31572074823858,
+            "product_id": 7001523716274,
+            "position": 1,
+            "created_at": "2021-11-01T17:16:56+00:00",
+            "updated_at": "2021-11-01T17:16:58+00:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/HSSC.jpg?v=1635787018",
+            "variant_ids": [
+              41063781236914,
+              42527180161202
+            ]
+          },
+          "available": true,
+          "price": "111.20",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 7001523716274,
+          "created_at": "2022-10-26T15:08:15+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 41063787790514,
+          "title": "500gr",
+          "option1": "500gr",
+          "option2": null,
+          "option3": null,
+          "sku": "hssc.500gr",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 32347811348658,
+            "product_id": 7001523716274,
+            "position": 2,
+            "created_at": "2022-01-27T13:10:33+00:00",
+            "updated_at": "2022-10-26T15:19:28+01:00",
+            "alt": null,
+            "width": 1536,
+            "height": 2048,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7106.jpg?v=1666793968",
+            "variant_ids": [
+              41063787790514
+            ]
+          },
+          "available": true,
+          "price": "55.60",
+          "grams": 1500,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 7001523716274,
+          "created_at": "2021-09-28T12:29:32+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 31572074823858,
+          "created_at": "2021-11-01T17:16:56+00:00",
+          "position": 1,
+          "updated_at": "2021-11-01T17:16:58+00:00",
+          "product_id": 7001523716274,
+          "variant_ids": [
+            41063781236914,
+            42527180161202
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/HSSC.jpg?v=1635787018",
+          "width": 1320,
+          "height": 880
+        },
+        {
+          "id": 32347811348658,
+          "created_at": "2022-01-27T13:10:33+00:00",
+          "position": 2,
+          "updated_at": "2022-10-26T15:19:28+01:00",
+          "product_id": 7001523716274,
+          "variant_ids": [
+            41063787790514
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7106.jpg?v=1666793968",
+          "width": 1536,
+          "height": 2048
+        },
+        {
+          "id": 32347804663986,
+          "created_at": "2022-01-27T13:09:12+00:00",
+          "position": 3,
+          "updated_at": "2022-10-26T15:19:28+01:00",
+          "product_id": 7001523716274,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/IMG_7256_9237d417-bd98-4bff-b0be-f1ab737cd8fe.jpg?v=1666793968",
+          "width": 1536,
+          "height": 2048
+        }
+      ],
+      "options": [
+        {
+          "name": "Sizes",
+          "position": 1,
+          "values": [
+            "Full Side - 1.1kg",
+            "Full Side - 1kg",
+            "500gr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6957574160562,
+      "title": "Hederman Organic Hot Smoked Irish Salmon",
+      "handle": "hederman-hot-smoked-irish-salmon-1-2kg",
+      "body_html": "<h4 class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; mso-outline-level: 4; background: white;\"><span style=\"mso-ansi-language: EN-IE;\">WHY CHOOSE HEDERMAN ORGANIC HOT SMOKED IRISH SALMON</span></h4>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\" class=\"MsoNormal\"><span style=\"mso-ansi-language: EN-IE;\">We are best known for our Organic Cold Smoked Irish Salmon, but we have also developed a considerable following for our luscious Organic Hot Smoked Irish salmon, succulent and ‘meaty’ fish with lots of flavour. </span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\" class=\"MsoNormal\"><span style=\"mso-ansi-language: EN-IE;\">Our hot smoked fish is organically farmed on west coast of Ireland. It is then cured and kiln–smoked over a live beech wood fire in small batches. </span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\" class=\"MsoNormal\"><span style=\"mso-ansi-language: EN-IE;\">It is sold whole, on-the-skin, unsliced. It flakes beautifully in shards, looking handsome on top of canapés, when the flavour and unctuous texture give plenty of momentum. It’s also a brilliant ingredient for tarts, fishcakes and fish pies, or for breakfast when it pairs deliciously with eggs, any which way!</span><span style=\"font-size: 12.0pt; font-family: 'Palatino Linotype',serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: Arial; mso-ansi-language: EN-IE; mso-fareast-language: EN-IE;\"> </span></p>\n<h4 class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\"><span lang=\"EN-GB\">PROVENANCE</span></h4>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"mso-ansi-language: EN-IE;\">We are proud to say that all of our salmon—when not wild—is single-estate, sourced exclusively from Ocean Farm. Owned and organically managed by the Gallagher Brothers in Killybegs, this family-run business boasts over a century of fishing heritage, along with over 15 years of expertise in organic salmon farming, since 2010.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"mso-ansi-language: EN-IE;\">Ocean Farm operates two organic sites along the Donegal coast, on the original wild Atlantic way. In fact, all Irish salmon farms are low-intensity, and organically managed, meaning—unlike conventional land farming—there is no risk of contamination from neighbouring sites.</span><span style=\"font-size: 12.0pt; font-family: 'Palatino Linotype',serif; mso-fareast-font-family: 'Times New Roman'; mso-bidi-font-family: 'Times New Roman'; mso-fareast-language: EN-IE;\" lang=\"EN-GB\"></span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"mso-ansi-language: EN-IE;\">From the very beginning, we have been committed to sourcing only the highest quality, sustainably produced fish. However, until recently, we were unable to label our products “organic”, as we had not yet completed the formal certification process.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"mso-ansi-language: EN-IE;\">In 2026, we took that important step. Today, we are proud to offer certified Organic Hot Smoked Irish Salmon.</span></p>\n<h4 class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\"><span lang=\"EN-GB\">WHAT IS THE DIFFERENCE BETWEEN HOT SMOKED AND COLD SMOKED SALMON?</span></h4>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"mso-ansi-language: EN-IE;\">Hederman hot smoked salmon is smoked and cooked at the same time, with temperatures reaching 75°C initially before a long slow smoke over live fire in the hot smoke kiln. This results in a product with a smoky flavour and cooked texture, rather like that of poached salmon. Hot smoked salmon flakes into succulent shards. </span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal;\" class=\"MsoNormal\"><span style=\"mso-ansi-language: EN-IE;\">Hederman cold smoked salmon on the other hand has a firm but tender, cured texture. The textural contrast is not dissimilar to the difference between prosciutto cotto, or cooked ham and prosciutto crudo (cured, or raw ham.)</span></p>\n<h4 class=\"MsoNormal\" style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\"><span lang=\"EN-GB\">OTHER USES </span></h4>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\" class=\"MsoNormal\"><span style=\"mso-ansi-language: EN-IE;\">Crème fraîche and horseradish are the perfect partners to hot smoked on homemade gougères or unsweetened brioche, for example. <br></span><span style=\"mso-ansi-language: EN-IE;\">Hot smoked salmon is a particularly good breakfast product with poached eggs and toasted sourdough, with or without hollandaise. <br></span><span style=\"mso-ansi-language: EN-IE;\">At Christmas &amp; Easter, it is ideal for large, help–yourself lunch parties, as the whole side looks the part, and it’s really easy to serve – as long as you flake it rather than trying to slice it.</span></p>\n<p style=\"mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; line-height: normal; background: white;\" class=\"MsoNormal\"><span style=\"mso-ansi-language: EN-IE;\">\"Frank Hederman smoked salmon for breakfast and for lunch because it is so out of this world.\" Chef, The River Cafe, London </span></p>\n<h4><span>ORIGIN</span></h4>\n<p><span>Atlantic Irish salmon, farmed on Ireland's west coast.</span></p>\n<h4>INGREDIENTS (Allergens in BOLD)</h4>\n<p><span>Irish Salmon FISH (<em>Salmo salar</em>) 97%, salt 3%.<br>Smoked with beechwood.</span><br><span>May contain bones.</span> </p>\n<h4>STORAGE</h4>\n<p><span>Refrigerate 0-4C</span><br><span>Bring to room temperature before serving</span><span></span></p>\n<h4>NUTRITIONAL INFORMATION</h4>\n<p><span>Quantity per 100g:</span><br><span>Energy: KJ 947 / kcal 226</span><br><span>Fat Total: 12.5g</span><br><span>Fat Saturated: 3.3g</span><br><span>Carbohydrate: 0g</span><br><span>Sugars: 0g</span><br><span>Protein: 28.4g</span><br><span>Salt: .75g</span></p>\n<h4><br></h4>\n<h4><span>EXTRA INFORMATION</span></h4>\n<p><a href=\"https://frank-hederman.myshopify.com/pages/faqs\" title=\"Frequently Asked Questions\">Read our Salmon FAQs</a></p>\n<h4><br></h4>",
+      "published_at": "2021-08-16T12:49:32+01:00",
+      "created_at": "2021-08-16T12:48:01+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 40748481642674,
+          "title": "Full side - 1.1kg",
+          "option1": "Full side - 1.1kg",
+          "option2": null,
+          "option3": null,
+          "sku": "hssp-1.1kg",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30455695376562,
+            "product_id": 6957574160562,
+            "position": 1,
+            "created_at": "2021-08-16T12:52:42+01:00",
+            "updated_at": "2021-08-16T12:59:50+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/HSS.jpg?v=1629115190",
+            "variant_ids": [
+              40748481642674,
+              42527157125298
+            ]
+          },
+          "available": true,
+          "price": "122.30",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 6957574160562,
+          "created_at": "2021-08-16T12:53:19+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 42527157125298,
+          "title": "Full side - 1kg",
+          "option1": "Full side - 1kg",
+          "option2": null,
+          "option3": null,
+          "sku": "hssp-1kg",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 30455695376562,
+            "product_id": 6957574160562,
+            "position": 1,
+            "created_at": "2021-08-16T12:52:42+01:00",
+            "updated_at": "2021-08-16T12:59:50+01:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/HSS.jpg?v=1629115190",
+            "variant_ids": [
+              40748481642674,
+              42527157125298
+            ]
+          },
+          "available": true,
+          "price": "111.20",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 6957574160562,
+          "created_at": "2022-10-26T15:04:55+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 41063756267698,
+          "title": "500 gr",
+          "option1": "500 gr",
+          "option2": null,
+          "option3": null,
+          "sku": "hssp-500gr",
+          "requires_shipping": true,
+          "taxable": false,
+          "featured_image": {
+            "id": 31575147610290,
+            "product_id": 6957574160562,
+            "position": 2,
+            "created_at": "2021-11-01T21:17:48+00:00",
+            "updated_at": "2021-11-01T21:17:48+00:00",
+            "alt": null,
+            "width": 1320,
+            "height": 880,
+            "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/hss_piece.jpg?v=1635801468",
+            "variant_ids": [
+              41063756267698
+            ]
+          },
+          "available": true,
+          "price": "55.60",
+          "grams": 1500,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 6957574160562,
+          "created_at": "2021-09-28T12:20:20+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 30455695376562,
+          "created_at": "2021-08-16T12:52:42+01:00",
+          "position": 1,
+          "updated_at": "2021-08-16T12:59:50+01:00",
+          "product_id": 6957574160562,
+          "variant_ids": [
+            40748481642674,
+            42527157125298
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/HSS.jpg?v=1629115190",
+          "width": 1320,
+          "height": 880
+        },
+        {
+          "id": 31575147610290,
+          "created_at": "2021-11-01T21:17:48+00:00",
+          "position": 2,
+          "updated_at": "2021-11-01T21:17:48+00:00",
+          "product_id": 6957574160562,
+          "variant_ids": [
+            41063756267698
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/products/hss_piece.jpg?v=1635801468",
+          "width": 1320,
+          "height": 880
+        }
+      ],
+      "options": [
+        {
+          "name": "Choice",
+          "position": 1,
+          "values": [
+            "Full side - 1.1kg",
+            "Full side - 1kg",
+            "500 gr"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6775201824946,
+      "title": "Gift Voucher",
+      "handle": "gift-voucher",
+      "body_html": "<p>The ideal gift for people who appreciate good food in case you can’t decide what to buy or if you’ve left it too late for delivery. When you buy a gift voucher, you will receive a code by email, <span style=\"text-decoration: underline;\">which can be used <strong>online</strong></span><strong> </strong>in our webshop by your gift recipient. This will be valid for one use only and cannot be exchanged for cash. It is redeemable against fish for courier delivery, or click and collect (at the smoke house only) or for our smoke house tours. These are all dependent on stock availability and the season. It is valid for 5 years from the date of purchase, but we advise people to use before they lose!</p>\n<p class=\"MsoNormal\"> </p>\n<h4 class=\"MsoNormal\">What your gift voucher can buy:</h4>\n<p>A <span style=\"mso-spacerun: yes;\"> </span>tour for two – in the spring, summer and autumn season we run public tours, which can be booked online;</p>\n<p>A smoked fish hamper – for Christmas this includes three delicious fillets of our smoked salmon varieties, smoked butter and smoked chilli flakes;</p>\n<p>A delicious side of smoked Irish wild salmon – depending on availability;</p>\n<p>A private lunch tour with Frank Hederman.</p>\n<p> </p>",
+      "published_at": "2021-05-24T15:47:37+01:00",
+      "created_at": "2021-05-24T15:44:03+01:00",
+      "updated_at": "2026-06-28T15:44:38+01:00",
+      "vendor": "Frank Hederman",
+      "product_type": "Gift Cards",
+      "tags": [],
+      "variants": [
+        {
+          "id": 40100324638898,
+          "title": "€50.00",
+          "option1": "€50.00",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": false,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "50.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 6775201824946,
+          "created_at": "2021-05-24T15:44:03+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 40100324671666,
+          "title": "€100.00",
+          "option1": "€100.00",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": false,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "100.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 6775201824946,
+          "created_at": "2021-05-24T15:44:03+01:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 53519110996312,
+          "title": "€150.00",
+          "option1": "€150.00",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": false,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "150.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 6775201824946,
+          "created_at": "2024-11-01T16:01:56+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 53519114535256,
+          "title": "€200.00",
+          "option1": "€200.00",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": false,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "200.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 6775201824946,
+          "created_at": "2024-11-01T16:02:24+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        },
+        {
+          "id": 53519117549912,
+          "title": "€250.00",
+          "option1": "€250.00",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": false,
+          "taxable": false,
+          "featured_image": null,
+          "available": true,
+          "price": "250.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 5,
+          "product_id": 6775201824946,
+          "created_at": "2024-11-01T16:02:44+00:00",
+          "updated_at": "2026-06-28T15:44:38+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 72557296943448,
+          "created_at": "2024-07-12T09:04:37+01:00",
+          "position": 1,
+          "updated_at": "2025-01-20T15:47:04+00:00",
+          "product_id": 6775201824946,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0571/0947/9602/files/FrankHederman_WalterScheelMedal.jpg?v=1737388024",
+          "width": 422,
+          "height": 562
+        }
+      ],
+      "options": [
+        {
+          "name": "Denominations",
+          "position": 1,
+          "values": [
+            "€50.00",
+            "€100.00",
+            "€150.00",
+            "€200.00",
+            "€250.00"
+          ]
+        }
+      ]
+    }
+  ]
+}

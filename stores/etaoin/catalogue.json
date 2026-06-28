@@ -1,0 +1,1435 @@
+{
+  "fetchedAt": "2026-06-28T14:55:00.303Z",
+  "storeUrl": "https://ceramicsbyetaoinoreilly.com",
+  "currency": "EUR",
+  "count": 18,
+  "products": [
+    {
+      "id": 15523072868683,
+      "title": "New Imbolc Sugar Bowl",
+      "handle": "untitled-10feb_23-29",
+      "body_html": "<p><span>Celebrate the season with this handcrafted Imbolc Sugar bowl, inspired by the spirit of St. Brigid. Each piece is thrown on the pottery wheel and adorned with a quirky hand-painted Brigid cross pattern that brings playful energy to your morning brew. Perfect for those who appreciate artisan ceramics with a touch of Celtic charm and personality. </span></p>",
+      "published_at": "2026-02-24T07:54:06+00:00",
+      "created_at": "2026-02-10T23:29:39+00:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 56496490316107,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "25.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15523072868683,
+          "created_at": "2026-02-10T23:29:40+00:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82688849117515,
+          "created_at": "2026-02-10T23:30:45+00:00",
+          "position": 1,
+          "updated_at": "2026-02-10T23:30:50+00:00",
+          "product_id": 15523072868683,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_136d1f26-9ee9-4d7b-9cba-df642720c800.jpg?v=1770766250",
+          "width": 4272,
+          "height": 2848
+        },
+        {
+          "id": 82688884572491,
+          "created_at": "2026-02-10T23:35:53+00:00",
+          "position": 2,
+          "updated_at": "2026-02-10T23:35:58+00:00",
+          "product_id": 15523072868683,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_3213b8f8-bacc-47c0-96b6-acfbbb0acd82.jpg?v=1770766558",
+          "width": 4272,
+          "height": 2848
+        },
+        {
+          "id": 82688884539723,
+          "created_at": "2026-02-10T23:35:53+00:00",
+          "position": 3,
+          "updated_at": "2026-02-10T23:35:57+00:00",
+          "product_id": 15523072868683,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_e0ad54ff-e6f6-47a1-b2f7-33fc960fc825.jpg?v=1770766557",
+          "width": 4272,
+          "height": 2848
+        },
+        {
+          "id": 82688884506955,
+          "created_at": "2026-02-10T23:35:53+00:00",
+          "position": 4,
+          "updated_at": "2026-02-10T23:35:57+00:00",
+          "product_id": 15523072868683,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_808c1c1c-7969-4285-a837-d612aa6d4ed7.jpg?v=1770766557",
+          "width": 4272,
+          "height": 2848
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15523073196363,
+      "title": "New Imbolc Milk Jug",
+      "handle": "new-imbolc-milk-jug",
+      "body_html": "<p>Celebrate the season with this handcrafted Imbolc milk jug, inspired by the spirit of St. Brigid. Each piece is thrown on the pottery wheel and adorned with a quirky hand-painted Brigid cross pattern that brings playful energy to your morning brew. Perfect for those who appreciate artisan ceramics with a touch of Celtic charm and personality. </p>",
+      "published_at": "2026-02-10T23:31:42+00:00",
+      "created_at": "2026-02-10T23:30:04+00:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 56496490676555,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "25.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15523073196363,
+          "created_at": "2026-02-10T23:30:05+00:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82688849183051,
+          "created_at": "2026-02-10T23:30:45+00:00",
+          "position": 1,
+          "updated_at": "2026-02-10T23:30:49+00:00",
+          "product_id": 15523073196363,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_6ff1e965-977a-43f6-8182-2324667a9cf3.jpg?v=1770766249",
+          "width": 4272,
+          "height": 2848
+        },
+        {
+          "id": 82688849150283,
+          "created_at": "2026-02-10T23:30:45+00:00",
+          "position": 2,
+          "updated_at": "2026-02-10T23:30:50+00:00",
+          "product_id": 15523073196363,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_b16b8cd5-eada-491d-93b4-ece892a9d500.jpg?v=1770766250",
+          "width": 4272,
+          "height": 2848
+        },
+        {
+          "id": 82688849117515,
+          "created_at": "2026-02-10T23:30:45+00:00",
+          "position": 3,
+          "updated_at": "2026-02-10T23:30:50+00:00",
+          "product_id": 15523073196363,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_136d1f26-9ee9-4d7b-9cba-df642720c800.jpg?v=1770766250",
+          "width": 4272,
+          "height": 2848
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15485183295819,
+      "title": "Claddagh Coffee Tumbler",
+      "handle": "claddagh-coffee-tumbler",
+      "body_html": "<p>Raise a toast with our handcrafted Claddagh Mug! Each piece is lovingly thrown on the pottery wheel and adorned with hand-painted designs inspired by Ireland's iconic claddagh ring—the symbol of love, loyalty, and friendship. Perfect for your morning coffee or evening tea, this unique mug brings a touch of Irish heritage and artisanal charm to your table. A genuine conversation starter that celebrates tradition with every sip.</p>",
+      "published_at": "2026-01-21T07:32:37+00:00",
+      "created_at": "2026-01-21T07:32:36+00:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 56349656940875,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "25.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15485183295819,
+          "created_at": "2026-01-21T07:32:36+00:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82688837648715,
+          "created_at": "2026-02-10T23:28:42+00:00",
+          "position": 1,
+          "updated_at": "2026-02-10T23:29:17+00:00",
+          "product_id": 15485183295819,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_50487e20-ae00-4ef4-8e59-b9bf166b0f76.jpg?v=1770766157",
+          "width": 4272,
+          "height": 2848
+        },
+        {
+          "id": 82173353689419,
+          "created_at": "2026-01-21T07:32:08+00:00",
+          "position": 2,
+          "updated_at": "2026-02-10T23:29:17+00:00",
+          "product_id": 15485183295819,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0026.jpg?v=1770766157",
+          "width": 4272,
+          "height": 2848
+        },
+        {
+          "id": 82173353722187,
+          "created_at": "2026-01-21T07:32:08+00:00",
+          "position": 3,
+          "updated_at": "2026-02-10T23:29:17+00:00",
+          "product_id": 15485183295819,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0032.jpg?v=1770766157",
+          "width": 4272,
+          "height": 2848
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15485180772683,
+      "title": "Claddagh Mug",
+      "handle": "claddagh-mug",
+      "body_html": "<p>Raise a toast with our handcrafted Claddagh Mug! Each piece is lovingly thrown on the pottery wheel and adorned with hand-painted designs inspired by Ireland's iconic claddagh ring—the symbol of love, loyalty, and friendship. Perfect for your morning coffee or evening tea, this unique mug brings a touch of Irish heritage and artisanal charm to your table. A genuine conversation starter that celebrates tradition with every sip.</p>",
+      "published_at": "2026-01-21T07:31:00+00:00",
+      "created_at": "2026-01-21T07:30:59+00:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 56349579903307,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": false,
+          "price": "25.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15485180772683,
+          "created_at": "2026-01-21T07:30:59+00:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82688822182219,
+          "created_at": "2026-02-10T23:26:34+00:00",
+          "position": 1,
+          "updated_at": "2026-02-10T23:27:54+00:00",
+          "product_id": 15485180772683,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_d161fa0f-7ab5-4fa6-8bde-8205cf3ecf30.jpg?v=1770766074",
+          "width": 4272,
+          "height": 2848
+        },
+        {
+          "id": 82688824770891,
+          "created_at": "2026-02-10T23:27:15+00:00",
+          "position": 2,
+          "updated_at": "2026-02-10T23:27:54+00:00",
+          "product_id": 15485180772683,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_04d19435-1d1a-4160-8d2c-6d637fcb1cf9.jpg?v=1770766074",
+          "width": 3621,
+          "height": 2848
+        },
+        {
+          "id": 82173306437963,
+          "created_at": "2026-01-21T07:30:23+00:00",
+          "position": 3,
+          "updated_at": "2026-02-10T23:27:54+00:00",
+          "product_id": 15485180772683,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0010.jpg?v=1770766074",
+          "width": 4272,
+          "height": 2848
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15485166715211,
+      "title": "Imbolc Mug (New)",
+      "handle": "imbolc-mug-new",
+      "body_html": "<p>Celebrate the season with this handcrafted Imbolc mug, inspired by the spirit of St. Brigid. Each piece is thrown on the pottery wheel and adorned with a quirky hand-painted Brigid cross pattern that brings playful energy to your morning brew. Perfect for those who appreciate artisan ceramics with a touch of Celtic charm and personality. </p>",
+      "published_at": "2026-01-21T07:25:40+00:00",
+      "created_at": "2026-01-21T07:25:39+00:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 56349539959115,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "25.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15485166715211,
+          "created_at": "2026-01-21T07:25:39+00:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82491981627723,
+          "created_at": "2026-01-30T17:59:57+00:00",
+          "position": 1,
+          "updated_at": "2026-01-30T18:00:14+00:00",
+          "product_id": 15485166715211,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_92ac69e1-52bc-41e9-ba19-963fa8ea0b86.jpg?v=1769796014",
+          "width": 3261,
+          "height": 2749
+        },
+        {
+          "id": 82173209051467,
+          "created_at": "2026-01-21T07:24:29+00:00",
+          "position": 2,
+          "updated_at": "2026-01-30T18:00:14+00:00",
+          "product_id": 15485166715211,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0029.jpg?v=1769796014",
+          "width": 3919,
+          "height": 2848
+        },
+        {
+          "id": 82173209018699,
+          "created_at": "2026-01-21T07:24:29+00:00",
+          "position": 3,
+          "updated_at": "2026-01-30T18:00:14+00:00",
+          "product_id": 15485166715211,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0033.jpg?v=1769796014",
+          "width": 4102,
+          "height": 2735
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15411803783499,
+      "title": "Seascape Tea Pot",
+      "handle": "seascape-tea-pot",
+      "body_html": "<p>This collection is inspired by my summers spent in Rossnowlagh, Co. Donegal. I wanted the collection to showcase the beauty of the rugged beaches of Donegal. All pieces are hand-thrown on the pottery wheel and then hand-painted.</p>",
+      "published_at": "2025-12-08T14:59:03+00:00",
+      "created_at": "2025-12-08T14:59:00+00:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 56064845611339,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "100.00",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15411803783499,
+          "created_at": "2025-12-08T14:59:00+00:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82967026139467,
+          "created_at": "2026-02-24T07:57:49+00:00",
+          "position": 1,
+          "updated_at": "2026-02-24T07:57:52+00:00",
+          "product_id": 15411803783499,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0024.jpg?v=1771919872",
+          "width": 3023,
+          "height": 2727
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15411790676299,
+      "title": "Seascape Coffee Tumbers",
+      "handle": "seascape-coffee-tumbers",
+      "body_html": "",
+      "published_at": "2025-12-08T14:47:59+00:00",
+      "created_at": "2025-12-08T14:47:57+00:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 56064807010635,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15411790676299,
+          "created_at": "2025-12-08T14:47:57+00:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82967016898891,
+          "created_at": "2026-02-24T07:56:45+00:00",
+          "position": 1,
+          "updated_at": "2026-02-24T07:56:48+00:00",
+          "product_id": 15411790676299,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0044.jpg?v=1771919808",
+          "width": 2995,
+          "height": 2594
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15411582697803,
+      "title": "An Talamh Coffee Tumbler",
+      "handle": "an-talamh-coffee-tumbler",
+      "body_html": "<p>This new collection is inspired by the land. The markings on the pieces are taken from the geological markings on mountains and the colours that are hand painted on the piece are inspired by the landscape. </p>",
+      "published_at": "2025-12-08T13:12:56+00:00",
+      "created_at": "2025-12-08T13:12:53+00:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 56064293175627,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15411582697803,
+          "created_at": "2025-12-08T13:12:53+00:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82966997729611,
+          "created_at": "2026-02-24T07:55:18+00:00",
+          "position": 1,
+          "updated_at": "2026-02-24T07:55:21+00:00",
+          "product_id": 15411582697803,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0046.jpg?v=1771919721",
+          "width": 3080,
+          "height": 2572
+        },
+        {
+          "id": 82966997827915,
+          "created_at": "2026-02-24T07:55:18+00:00",
+          "position": 2,
+          "updated_at": "2026-02-24T07:55:23+00:00",
+          "product_id": 15411582697803,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0048.jpg?v=1771919723",
+          "width": 4130,
+          "height": 2753
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 15411577651531,
+      "title": "An Talamh Tea Pot",
+      "handle": "an-talamh-tea-pot",
+      "body_html": "",
+      "published_at": "2025-12-08T13:02:00+00:00",
+      "created_at": "2025-12-08T13:01:57+00:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 56064266436939,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "100.00",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 15411577651531,
+          "created_at": "2025-12-08T13:01:57+00:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 79995624718667,
+          "created_at": "2025-12-08T13:01:13+00:00",
+          "position": 1,
+          "updated_at": "2025-12-08T13:01:17+00:00",
+          "product_id": 15411577651531,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_8716_1.jpg?v=1765198877",
+          "width": 2969,
+          "height": 2804
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14803717620043,
+      "title": "An Talamh Mug",
+      "handle": "an-talamh-mug",
+      "body_html": "<p>This new collection is inspired by the land. The markings on the pieces are taken from the geological markings on mountains and the colours that are hand painted on the piece are inspired by the landscape. </p>",
+      "published_at": "2025-09-22T15:08:56+01:00",
+      "created_at": "2025-09-22T15:08:52+01:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 53448682275147,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "25.00",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 14803717620043,
+          "created_at": "2025-09-22T15:08:52+01:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82967044522315,
+          "created_at": "2026-02-24T07:59:21+00:00",
+          "position": 1,
+          "updated_at": "2026-02-24T07:59:36+00:00",
+          "product_id": 14803717620043,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0049.jpg?v=1771919976",
+          "width": 3433,
+          "height": 2837
+        },
+        {
+          "id": 82967044489547,
+          "created_at": "2026-02-24T07:59:21+00:00",
+          "position": 2,
+          "updated_at": "2026-02-24T07:59:36+00:00",
+          "product_id": 14803717620043,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0051.jpg?v=1771919976",
+          "width": 4188,
+          "height": 2792
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14795173822795,
+      "title": "Geebag Earrings",
+      "handle": "geebag-earrings",
+      "body_html": "",
+      "published_at": "2025-09-18T13:14:51+01:00",
+      "created_at": "2025-09-18T13:14:47+01:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 53411610296651,
+          "title": "Óir (Gold)",
+          "option1": "Óir (Gold)",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 65365573861707,
+            "product_id": 14795173822795,
+            "position": 1,
+            "created_at": "2025-09-18T13:13:11+01:00",
+            "updated_at": "2025-09-18T13:13:15+01:00",
+            "alt": null,
+            "width": 4272,
+            "height": 2848,
+            "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_8745_1.jpg?v=1758197595",
+            "variant_ids": [
+              53411610296651,
+              53411610329419
+            ]
+          },
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 14795173822795,
+          "created_at": "2025-09-18T13:14:47+01:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        },
+        {
+          "id": 53411610329419,
+          "title": "Airgid (Silver)",
+          "option1": "Airgid (Silver)",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 65365573861707,
+            "product_id": 14795173822795,
+            "position": 1,
+            "created_at": "2025-09-18T13:13:11+01:00",
+            "updated_at": "2025-09-18T13:13:15+01:00",
+            "alt": null,
+            "width": 4272,
+            "height": 2848,
+            "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_8745_1.jpg?v=1758197595",
+            "variant_ids": [
+              53411610296651,
+              53411610329419
+            ]
+          },
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 14795173822795,
+          "created_at": "2025-09-18T13:14:47+01:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 65365573861707,
+          "created_at": "2025-09-18T13:13:11+01:00",
+          "position": 1,
+          "updated_at": "2025-09-18T13:13:15+01:00",
+          "product_id": 14795173822795,
+          "variant_ids": [
+            53411610296651,
+            53411610329419
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_8745_1.jpg?v=1758197595",
+          "width": 4272,
+          "height": 2848
+        }
+      ],
+      "options": [
+        {
+          "name": "Jewelry material",
+          "position": 1,
+          "values": [
+            "Óir (Gold)",
+            "Airgid (Silver)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14777751273803,
+      "title": "Tuesday Night 5 Week Beginners Pottery Wheel Workshop",
+      "handle": "tuesday-night-5-week-beginners-pottery-wheel-workshop",
+      "body_html": "<p>Learn to throw on the pottery wheel in this five-week beginner workshop! Each Tuesday night, you'll master the basics of centering, opening, and shaping clay into functional pieces. Best part? For an additional €50, you'll also get a bonus painting class to glaze and decorate everything you create. Perfect for curious hands and creative minds—no experience needed. Walk away with beautiful handmade ceramics and newfound skills!</p>\n<p>Book now, pay later!</p>\n<p>If you would like to book your space now and pay later, you can pay a deposit of €50. To book your space, just email me at etaoinceramics14@gmail.com </p>\n<p>Spaces are limited, so book now.</p>\n<p>The course will run from the 28th of April for 5 weeks on Tuesday evenings from 18:00 - 20:00 pm <span style=\"font-size: 0.875rem;\">in Bó Studios, Dundalk, A91N1NP. </span></p>",
+      "published_at": "2025-09-08T17:07:19+01:00",
+      "created_at": "2025-09-08T17:07:16+01:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 53340187001163,
+          "title": "Without Additional Class",
+          "option1": "Without Additional Class",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": false,
+          "taxable": true,
+          "featured_image": {
+            "id": 83115597136203,
+            "product_id": 14777751273803,
+            "position": 1,
+            "created_at": "2026-03-04T12:06:24+00:00",
+            "updated_at": "2026-03-04T12:06:42+00:00",
+            "alt": null,
+            "width": 1080,
+            "height": 1350,
+            "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_d0372ec4-c510-4f00-b1b7-a8433acb5457.png?v=1772626002",
+            "variant_ids": [
+              53340187001163
+            ]
+          },
+          "available": false,
+          "price": "195.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 14777751273803,
+          "created_at": "2025-09-08T17:07:16+01:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        },
+        {
+          "id": 53340187033931,
+          "title": "Additional Class",
+          "option1": "Additional Class",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": false,
+          "taxable": true,
+          "featured_image": {
+            "id": 83115652514123,
+            "product_id": 14777751273803,
+            "position": 2,
+            "created_at": "2026-03-04T12:11:45+00:00",
+            "updated_at": "2026-03-04T12:11:49+00:00",
+            "alt": null,
+            "width": 1080,
+            "height": 1350,
+            "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_e8910663-80c0-4dfd-bf45-315ae6fa1b2e.png?v=1772626309",
+            "variant_ids": [
+              53340187033931
+            ]
+          },
+          "available": false,
+          "price": "245.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 14777751273803,
+          "created_at": "2025-09-08T17:07:16+01:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 83115597136203,
+          "created_at": "2026-03-04T12:06:24+00:00",
+          "position": 1,
+          "updated_at": "2026-03-04T12:06:42+00:00",
+          "product_id": 14777751273803,
+          "variant_ids": [
+            53340187001163
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_d0372ec4-c510-4f00-b1b7-a8433acb5457.png?v=1772626002",
+          "width": 1080,
+          "height": 1350
+        },
+        {
+          "id": 83115652514123,
+          "created_at": "2026-03-04T12:11:45+00:00",
+          "position": 2,
+          "updated_at": "2026-03-04T12:11:49+00:00",
+          "product_id": 14777751273803,
+          "variant_ids": [
+            53340187033931
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_e8910663-80c0-4dfd-bf45-315ae6fa1b2e.png?v=1772626309",
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "options": [
+        {
+          "name": "Additional hand painting Class at the end of the course",
+          "position": 1,
+          "values": [
+            "Without Additional Class",
+            "Additional Class"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 14774216917323,
+      "title": "Ham Child Earrings",
+      "handle": "ham-child-earrings",
+      "body_html": "",
+      "published_at": "2025-09-05T14:14:44+01:00",
+      "created_at": "2025-09-05T14:14:40+01:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 53321458286923,
+          "title": "Gorm (Blue) / Airgid (Silver)",
+          "option1": "Gorm (Blue)",
+          "option2": "Airgid (Silver)",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 14774216917323,
+          "created_at": "2025-09-05T14:14:40+01:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        },
+        {
+          "id": 53321458319691,
+          "title": "Gorm (Blue) / Óir (Gold)",
+          "option1": "Gorm (Blue)",
+          "option2": "Óir (Gold)",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 14774216917323,
+          "created_at": "2025-09-05T14:14:40+01:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        },
+        {
+          "id": 53321458352459,
+          "title": "Buí (Yellow) / Airgid (Silver)",
+          "option1": "Buí (Yellow)",
+          "option2": "Airgid (Silver)",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 3,
+          "product_id": 14774216917323,
+          "created_at": "2025-09-05T14:14:40+01:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        },
+        {
+          "id": 53321458385227,
+          "title": "Buí (Yellow) / Óir (Gold)",
+          "option1": "Buí (Yellow)",
+          "option2": "Óir (Gold)",
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 4,
+          "product_id": 14774216917323,
+          "created_at": "2025-09-05T14:14:40+01:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 64634864206155,
+          "created_at": "2025-09-05T14:12:23+01:00",
+          "position": 1,
+          "updated_at": "2025-09-05T14:12:27+01:00",
+          "product_id": 14774216917323,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_8734_1.jpg?v=1757077947",
+          "width": 3493,
+          "height": 2641
+        },
+        {
+          "id": 64634889240907,
+          "created_at": "2025-09-05T14:12:56+01:00",
+          "position": 2,
+          "updated_at": "2025-09-05T14:13:01+01:00",
+          "product_id": 14774216917323,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_8731_1.jpg?v=1757077981",
+          "width": 3158,
+          "height": 2389
+        }
+      ],
+      "options": [
+        {
+          "name": "Blue",
+          "position": 1,
+          "values": [
+            "Gorm (Blue)",
+            "Buí (Yellow)"
+          ]
+        },
+        {
+          "name": "Jewelry material",
+          "position": 2,
+          "values": [
+            "Airgid (Silver)",
+            "Óir (Gold)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10799395471691,
+      "title": "Seascape Earrings",
+      "handle": "seascape-earrings",
+      "body_html": "<p>My Seascape Collection inspired these new ceramic earrings, which are based off the beautiful beach Rossnowlagh in Co.Donegal, where I have holidayed every summer since I was a child. The colours which are hand-painted on the pieces are inspired by the sand and the rough but beautiful waves of the sea. </p>",
+      "published_at": "2025-08-11T17:21:46+01:00",
+      "created_at": "2025-08-11T17:21:42+01:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 53156538220875,
+          "title": "Óir (Gold)",
+          "option1": "Óir (Gold)",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 63452388393291,
+            "product_id": 10799395471691,
+            "position": 1,
+            "created_at": "2025-08-11T17:20:12+01:00",
+            "updated_at": "2025-08-11T17:20:17+01:00",
+            "alt": null,
+            "width": 4272,
+            "height": 2848,
+            "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_8756_1.jpg?v=1754929217",
+            "variant_ids": [
+              53156538220875
+            ]
+          },
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10799395471691,
+          "created_at": "2025-08-11T17:43:14+01:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        },
+        {
+          "id": 53156538253643,
+          "title": "Airgid (Silver)",
+          "option1": "Airgid (Silver)",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": {
+            "id": 63453318185291,
+            "product_id": 10799395471691,
+            "position": 2,
+            "created_at": "2025-08-11T17:42:57+01:00",
+            "updated_at": "2025-08-11T17:43:02+01:00",
+            "alt": null,
+            "width": 3466,
+            "height": 2514,
+            "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_8761_1_d0677614-30b2-46af-ac6a-66926b531f42.jpg?v=1754930582",
+            "variant_ids": [
+              53156538253643
+            ]
+          },
+          "available": true,
+          "price": "20.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 2,
+          "product_id": 10799395471691,
+          "created_at": "2025-08-11T17:43:14+01:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 63452388393291,
+          "created_at": "2025-08-11T17:20:12+01:00",
+          "position": 1,
+          "updated_at": "2025-08-11T17:20:17+01:00",
+          "product_id": 10799395471691,
+          "variant_ids": [
+            53156538220875
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_8756_1.jpg?v=1754929217",
+          "width": 4272,
+          "height": 2848
+        },
+        {
+          "id": 63453318185291,
+          "created_at": "2025-08-11T17:42:57+01:00",
+          "position": 2,
+          "updated_at": "2025-08-11T17:43:02+01:00",
+          "product_id": 10799395471691,
+          "variant_ids": [
+            53156538253643
+          ],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_8761_1_d0677614-30b2-46af-ac6a-66926b531f42.jpg?v=1754930582",
+          "width": 3466,
+          "height": 2514
+        }
+      ],
+      "options": [
+        {
+          "name": "Color",
+          "position": 1,
+          "values": [
+            "Óir (Gold)",
+            "Airgid (Silver)"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10726170460491,
+      "title": "Pottery Wheel Class for Two",
+      "handle": "pottery-for-two",
+      "body_html": "<p>Wheel Class for two! Spin away stress as you and a friend shape clay into something magical. No experience needed—just bring your imagination, and we'll handle the messy bits. It's the perfect treat for your creative soul.</p>\n<p>Location:</p>\n<p>Bó Studios, 6 Jocelyn Street, Dundalk, Co.Louth, A91K3K6</p>\n<p>This can be booked for anytime. When you have purchased your class just email me at etaoinceramics14@gmail.com to book in for your class. Also, you can call into Bó Studios Pop Up Gallery which is open Saturdays 1-5pm to arrange your time to do your pottery class. </p>\n<p>Also, if you would like to gift this to a friend, and would like a gift voucher, just email me at etaoinceramics14@gmail.com</p>",
+      "published_at": "2025-07-02T12:59:07+01:00",
+      "created_at": "2025-07-02T12:59:07+01:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 52621508837707,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": null,
+          "requires_shipping": false,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "140.00",
+          "grams": 0,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 10726170460491,
+          "created_at": "2025-07-02T12:59:07+01:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 83115687772491,
+          "created_at": "2026-03-04T12:15:39+00:00",
+          "position": 1,
+          "updated_at": "2026-03-04T12:15:43+00:00",
+          "product_id": 10726170460491,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/rn-image_picker_lib_temp_aa2e8655-f52a-4cf0-a1f3-fa02ce472f37.png?v=1772626543",
+          "width": 1080,
+          "height": 1350
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8752522854731,
+      "title": "Seascape sugar bowl",
+      "handle": "seascape-sugar-bowl",
+      "body_html": "<p>This collection is inspired by my summers spent in Rossnowlagh, Co. Donegal. I wanted the collection to showcase the beauty of the rugged beaches of Donegal. All pieces are hand-thrown on the pottery wheel and then hand-painted.</p>",
+      "published_at": "2024-02-11T12:49:49+00:00",
+      "created_at": "2024-02-11T12:48:31+00:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 47392859455819,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "25.00",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8752522854731,
+          "created_at": "2024-02-11T12:48:31+00:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82967057039691,
+          "created_at": "2026-02-24T08:00:52+00:00",
+          "position": 1,
+          "updated_at": "2026-02-24T08:00:56+00:00",
+          "product_id": 8752522854731,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0041.jpg?v=1771920056",
+          "width": 3162,
+          "height": 2619
+        },
+        {
+          "id": 82967057072459,
+          "created_at": "2026-02-24T08:00:52+00:00",
+          "position": 2,
+          "updated_at": "2026-02-24T08:00:56+00:00",
+          "product_id": 8752522854731,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0039.jpg?v=1771920056",
+          "width": 3545,
+          "height": 2349
+        },
+        {
+          "id": 82967057105227,
+          "created_at": "2026-02-24T08:00:52+00:00",
+          "position": 3,
+          "updated_at": "2026-02-24T08:00:56+00:00",
+          "product_id": 8752522854731,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0037_d0eeab08-669a-448a-95af-e723e0c8a956.jpg?v=1771920056",
+          "width": 3190,
+          "height": 2462
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8752520986955,
+      "title": "Seascape milk jug",
+      "handle": "seascape-milk-jug",
+      "body_html": "<p>This collection is inspired by my summers spent in Rossnowlagh, Co. Donegal. I wanted the collection to showcase the beauty of the rugged beaches of Donegal. All pieces are hand-thrown on the pottery wheel and then hand-painted.</p>",
+      "published_at": "2024-02-11T12:48:21+00:00",
+      "created_at": "2024-02-11T12:45:32+00:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 47392853852491,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "25.00",
+          "grams": 2000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8752520986955,
+          "created_at": "2024-02-11T12:45:32+00:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82967128768843,
+          "created_at": "2026-02-24T08:02:14+00:00",
+          "position": 1,
+          "updated_at": "2026-02-24T08:02:31+00:00",
+          "product_id": 8752520986955,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0034.jpg?v=1771920151",
+          "width": 3461,
+          "height": 2644
+        },
+        {
+          "id": 82967128736075,
+          "created_at": "2026-02-24T08:02:14+00:00",
+          "position": 2,
+          "updated_at": "2026-02-24T08:02:31+00:00",
+          "product_id": 8752520986955,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0037_54470c25-8ea5-46d1-aaca-b34c4897d1ca.jpg?v=1771920151",
+          "width": 3190,
+          "height": 2462
+        },
+        {
+          "id": 82967128801611,
+          "created_at": "2026-02-24T08:02:14+00:00",
+          "position": 3,
+          "updated_at": "2026-02-24T08:02:17+00:00",
+          "product_id": 8752520986955,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0031.jpg?v=1771920137",
+          "width": 3654,
+          "height": 2793
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8359286243659,
+      "title": "Seascape Mug",
+      "handle": "limited-edition-mug",
+      "body_html": "<p>This collection is inspired by my summers spent in Rossnowlagh, Co. Donegal. I wanted the collection to showcase the beauty of the rugged beaches of Donegal. All pieces are hand-thrown on the pottery wheel and then hand-painted.</p>",
+      "published_at": "2023-04-04T21:08:50+01:00",
+      "created_at": "2023-04-04T21:08:50+01:00",
+      "updated_at": "2026-06-28T15:54:59+01:00",
+      "vendor": "Etaoin O'Reilly Ceramics",
+      "product_type": "",
+      "tags": [],
+      "variants": [
+        {
+          "id": 46482265506123,
+          "title": "Default Title",
+          "option1": "Default Title",
+          "option2": null,
+          "option3": null,
+          "sku": "",
+          "requires_shipping": true,
+          "taxable": true,
+          "featured_image": null,
+          "available": true,
+          "price": "25.00",
+          "grams": 1000,
+          "compare_at_price": null,
+          "position": 1,
+          "product_id": 8359286243659,
+          "created_at": "2023-04-04T21:08:50+01:00",
+          "updated_at": "2026-06-28T15:54:59+01:00"
+        }
+      ],
+      "images": [
+        {
+          "id": 82967137026379,
+          "created_at": "2026-02-24T08:03:12+00:00",
+          "position": 1,
+          "updated_at": "2026-02-24T08:03:16+00:00",
+          "product_id": 8359286243659,
+          "variant_ids": [],
+          "src": "https://cdn.shopify.com/s/files/1/0278/3097/6573/files/IMG_0042.jpg?v=1771920196",
+          "width": 3378,
+          "height": 2638
+        }
+      ],
+      "options": [
+        {
+          "name": "Title",
+          "position": 1,
+          "values": [
+            "Default Title"
+          ]
+        }
+      ]
+    }
+  ]
+}

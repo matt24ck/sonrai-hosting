@@ -1,0 +1,14 @@
+{
+  "source": "Playwright computed styles (live page)",
+  "fontHeading": "Jost, sans-serif",
+  "fontBody": "Figtree, sans-serif",
+  "textBase": "14px",
+  "headingWeight": "300",
+  "bodyWeight": "400",
+  "colorText": "rgb(107, 63, 42)",
+  "colorBg": "rgb(240, 230, 204)",
+  "colorAccent": "rgb(156, 107, 60)",
+  "colorButtonText": "rgb(240, 230, 204)",
+  "radius": "0px",
+  "googleFontsHref": "https://fonts.googleapis.com/css?family=Overpass"
+}

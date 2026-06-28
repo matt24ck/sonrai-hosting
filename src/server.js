@@ -53,6 +53,8 @@ app.get('/api/config', (req, res) => {
     currency: store.currency,
     currencySymbol: store.currencySymbol,
     examplePrompts: store.examplePrompts,
+    optionWord: store.optionWord || 'option',
+    greeting: store.greeting || '',
     tokens: loadTokens(store.id),
     logoSvg: loadLogo(store.id),
   });

@@ -1,0 +1,14 @@
+{
+  "source": "Playwright computed styles (live page)",
+  "fontHeading": "\"Anonymous Pro\", monospace",
+  "fontBody": "\"Anonymous Pro\", monospace",
+  "textBase": "16px",
+  "headingWeight": "400",
+  "bodyWeight": "400",
+  "colorText": "rgb(58, 58, 58)",
+  "colorBg": "rgb(247, 247, 247)",
+  "colorAccent": "rgb(58, 58, 58)",
+  "colorButtonText": "rgb(255, 255, 255)",
+  "radius": "0px 2px 2px 0px",
+  "googleFontsHref": ""
+}

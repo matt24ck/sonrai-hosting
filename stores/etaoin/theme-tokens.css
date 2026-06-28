@@ -1,0 +1,16 @@
+/* theme-tokens.css — extracted from https://ceramicsbyetaoinoreilly.com
+ * Source: Playwright computed styles (live page)
+ * Resolved fonts: heading="Anonymous Pro", monospace ; body="Anonymous Pro", monospace
+ */
+:root {
+  --font-heading: "Anonymous Pro", monospace;
+  --font-body: "Anonymous Pro", monospace;
+  --weight-heading: 400;
+  --weight-body: 400;
+  --text-base: 16px;
+  --color-text: rgb(58, 58, 58);
+  --color-bg: rgb(247, 247, 247);
+  --color-accent: rgb(58, 58, 58);
+  --color-button-text: rgb(255, 255, 255);
+  --radius: 0px 2px 2px 0px;
+}

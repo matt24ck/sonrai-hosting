@@ -1,0 +1,14 @@
+{
+  "source": "Playwright computed styles (live page)",
+  "fontHeading": "Lato, sans-serif",
+  "fontBody": "Roboto, sans-serif",
+  "textBase": "14px",
+  "headingWeight": "400",
+  "bodyWeight": "400",
+  "colorText": "rgb(68, 68, 68)",
+  "colorBg": "rgb(255, 255, 255)",
+  "colorAccent": "rgb(68, 68, 68)",
+  "colorButtonText": "rgb(255,255,255)",
+  "radius": "4px",
+  "googleFontsHref": ""
+}

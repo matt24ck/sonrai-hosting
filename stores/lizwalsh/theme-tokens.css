@@ -1,0 +1,16 @@
+/* theme-tokens.css — extracted from https://www.lizwalsh.ie
+ * Source: Playwright computed styles (live page)
+ * Resolved fonts: heading=Jost, sans-serif ; body=Figtree, sans-serif
+ */
+:root {
+  --font-heading: Jost, sans-serif;
+  --font-body: Figtree, sans-serif;
+  --weight-heading: 300;
+  --weight-body: 400;
+  --text-base: 14px;
+  --color-text: rgb(107, 63, 42);
+  --color-bg: rgb(240, 230, 204);
+  --color-accent: rgb(156, 107, 60);
+  --color-button-text: rgb(240, 230, 204);
+  --radius: 0px;
+}

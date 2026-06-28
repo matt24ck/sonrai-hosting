@@ -47,8 +47,9 @@ const RECOMMEND_TOOL = {
 
 function buildSystemPrompt(store) {
   const sym = store.currencySymbol;
-  return [
-    `You are the shopping concierge for ${store.storeName}, an Irish gymwear/streetwear brand.`,
+  const businessType = store.businessType || 'a Shopify store';
+  const lines = [
+    `You are the shopping concierge for ${store.storeName}, ${businessType}.`,
     `Help the shopper find the right product from ONLY the products provided in this conversation.`,
     ``,
     `HARD RULES (never break these):`,
@@ -59,26 +60,24 @@ function buildSystemPrompt(store) {
     `- NEVER state a price yourself — the app renders real prices from the catalogue. You may`,
     `  reference budget in words ("comfortably under budget") but never quote a number.`,
     `- If the shopper gives a budget, respect it: only recommend items within it.`,
-    `- If nothing fits (e.g. a category ${store.storeName} doesn't stock), say so warmly and`,
+    `- If nothing fits (e.g. something ${store.storeName} doesn't stock), say so warmly and`,
     `  honestly, offer the nearest real thing if there is one, and DON'T force a poor match or`,
     `  pretend to stock it. Send an empty recommendations array when declining or clarifying.`,
     `- When the request is vague ("something nice, you pick"), ask ONE good follow-up question`,
     `  before recommending — but if they then say "you choose", just pick well.`,
     ``,
-    `SIZING (important):`,
-    `- NEVER assume or state the shopper's size, and never say you've added a specific size.`,
-    `  The shopper picks their size in the interface; you just recommend products.`,
-    `- Don't invent measurements. You may mention fit only if it's genuinely stated for the item`,
-    `  (e.g. "an oversized fit"); otherwise point them to the size guide.`,
-    ``,
-    `SHOP-THE-LOOK (your best move): When a shopper likes a piece, proactively build the COMPLETE`,
-    `matching outfit in the SAME colourway — e.g. hoodie + matching pant + tee (+ cap) all in the`,
-    `same colour family — so they can buy the whole fit at once. Match colourways by the product's`,
-    `colour (e.g. all "Artic Blue"). Caps are neutral and finish most fits.`,
+    `OPTIONS / VARIANTS:`,
+    `- Some products have options (size, weight, colour, variant). The shopper picks the option in`,
+    `  the interface — NEVER assume one, and never claim you've added a specific size/option.`,
+    `- Don't invent details (measurements, weights, ingredients) that aren't given for the item.`,
+  ];
+  if (store.bundleGuidance) lines.push('', store.bundleGuidance);
+  lines.push(
     ``,
     `TONE: ${store.brandVoice} Talk like ${store.storeName}'s best in-store salesperson, not a`,
-    `corporate chatbot. Keep replies short and hyped. Currency is ${store.currency} (${sym}).`,
-  ].join('\n');
+    `corporate chatbot. Keep replies short and genuine. Currency is ${store.currency} (${sym}).`
+  );
+  return lines.join('\n');
 }
 
 function renderProductList(items) {
@@ -162,10 +161,20 @@ async function recommend(history, storeId) {
   const lastUser = [...history].reverse().find((m) => m.role === 'user');
   const lastUserText = lastUser ? lastUser.content : '';
 
+  // Enforce budget in CODE (never rely on the model): keep only within-budget items so an
+  // over-budget product can't be shown as if it fits. If nothing is within budget, keep the full
+  // set so the concierge can honestly offer the nearest thing. Applies to ALL catalogue sizes.
   let candidates = fullIndex;
+  const budget = catalogue.parseBudget(lastUserText);
+  if (budget != null) {
+    const within = fullIndex.filter((p) => p.price == null || p.price <= budget);
+    if (within.length) candidates = within;
+  }
+
+  // For large catalogues, additionally narrow to keyword/category candidates.
   let usedPrefilter = false;
-  if (fullIndex.length > config.PREFILTER_THRESHOLD) {
-    candidates = catalogue.prefilter(lastUserText, fullIndex);
+  if (candidates.length > config.PREFILTER_THRESHOLD) {
+    candidates = catalogue.prefilter(lastUserText, candidates);
     usedPrefilter = true;
   }
 

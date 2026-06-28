@@ -188,7 +188,7 @@
   function panelEl(cfg) {
     cartEl = h('span', { class: 'cart' });
     bodyEl = h('div', { class: 'body' });
-    inputEl = h('input', { type: 'text', placeholder: 'Describe the vibe or the fit…', 'aria-label': 'Message the stylist' });
+    inputEl = h('input', { type: 'text', placeholder: 'Describe what you’re after…', 'aria-label': 'Message the assistant' });
     sendEl = h('button', { class: 'send', onclick: submit }, ['Send']);
     inputEl.addEventListener('keydown', (e) => { if (e.key === 'Enter') submit(); });
 
@@ -196,8 +196,8 @@
       h('button', { class: 'chip', onclick: () => { inputEl.value = p; submit(); } }, [p])
     ));
 
-    // Greeting
-    bodyEl.appendChild(botBubble(`Hey! I'm the ${cfg.storeName} stylist. Tell me the vibe and I'll build the full fit.`));
+    // Greeting (per-store, with a neutral fallback)
+    bodyEl.appendChild(botBubble(cfg.greeting || `Hi! Tell me what you’re after and I’ll find the right piece from ${cfg.storeName}.`));
 
     panel = h('div', { class: 'panel' }, [
       h('div', { class: 'head' }, [
@@ -228,7 +228,7 @@
 
     bodyEl.appendChild(h('div', { class: 'msg user' }, [text]));
     state.history.push({ role: 'user', content: text });
-    const thinking = h('div', { class: 'msg bot thinking' }, [h('div', { class: 'bubbletext' }, ['styling your fit…'])]);
+    const thinking = h('div', { class: 'msg bot thinking' }, [h('div', { class: 'bubbletext' }, ['finding the best picks…'])]);
     bodyEl.appendChild(thinking);
     scrollDown();
 
@@ -326,7 +326,8 @@
     let fitSizes = null;
     if (sized.length) {
       const labels = [...new Set(sized.flatMap((p) => p.variants.filter((v) => v.available).map((v) => v.label)))];
-      fitSizes = h('div', { class: 'fitsizes' }, [h('span', { class: 'lbl' }, ['Set my size:'])]);
+      const ow = (state.cfg && state.cfg.optionWord) || 'option';
+      fitSizes = h('div', { class: 'fitsizes' }, [h('span', { class: 'lbl' }, [`Set ${ow}:`])]);
       labels.forEach((label) => {
         const chip = h('button', { class: 'sz', 'aria-pressed': 'false' }, [label]);
         chip.addEventListener('click', () => {
@@ -347,7 +348,8 @@
       const cards = currentCardsFor(buyable);
       const missing = cards.filter((c) => !c._chosen);
       if (missing.length) {
-        note.textContent = `Pick a size for: ${missing.map((c) => c._product.title).join(', ')}`;
+        const ow = (state.cfg && state.cfg.optionWord) || 'option';
+        note.textContent = `Pick a ${ow} for: ${missing.map((c) => c._product.title).join(', ')}`;
         note.style.display = 'block';
         return;
       }
